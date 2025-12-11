@@ -326,8 +326,8 @@
     "Matchup_Losses":1,
     "Matchup_Draws":0,
     "Total_Cat_Wins":78,
-    "Total_Cat_Losses":36,
-    "Total_Cat_Draws":3
+    "Total_Cat_Losses":37,
+    "Total_Cat_Draws":2
   },
   {
     "Week":3,
@@ -345,9 +345,9 @@
     "Matchup_Wins":4,
     "Matchup_Losses":9,
     "Matchup_Draws":0,
-    "Total_Cat_Wins":54,
+    "Total_Cat_Wins":55,
     "Total_Cat_Losses":61,
-    "Total_Cat_Draws":2
+    "Total_Cat_Draws":1
   },
   {
     "Week":3,
@@ -435,9 +435,9 @@
     "Matchup_Wins":13,
     "Matchup_Losses":0,
     "Matchup_Draws":0,
-    "Total_Cat_Wins":85,
+    "Total_Cat_Wins":86,
     "Total_Cat_Losses":31,
-    "Total_Cat_Draws":1
+    "Total_Cat_Draws":0
   },
   {
     "Week":4,
@@ -465,9 +465,9 @@
     "Matchup_Wins":9,
     "Matchup_Losses":4,
     "Matchup_Draws":0,
-    "Total_Cat_Wins":61,
+    "Total_Cat_Wins":62,
     "Total_Cat_Losses":54,
-    "Total_Cat_Draws":2
+    "Total_Cat_Draws":1
   },
   {
     "Week":4,
@@ -476,8 +476,8 @@
     "Matchup_Losses":12,
     "Matchup_Draws":0,
     "Total_Cat_Wins":35,
-    "Total_Cat_Losses":78,
-    "Total_Cat_Draws":4
+    "Total_Cat_Losses":79,
+    "Total_Cat_Draws":3
   },
   {
     "Week":4,
@@ -546,8 +546,8 @@
     "Matchup_Losses":9,
     "Matchup_Draws":1,
     "Total_Cat_Wins":53,
-    "Total_Cat_Losses":61,
-    "Total_Cat_Draws":3
+    "Total_Cat_Losses":62,
+    "Total_Cat_Draws":2
   },
   {
     "Week":4,
@@ -725,9 +725,9 @@
     "Matchup_Wins":3,
     "Matchup_Losses":9,
     "Matchup_Draws":1,
-    "Total_Cat_Wins":42,
+    "Total_Cat_Wins":43,
     "Total_Cat_Losses":72,
-    "Total_Cat_Draws":3
+    "Total_Cat_Draws":2
   },
   {
     "Week":6,
@@ -743,11 +743,11 @@
     "Week":6,
     "Team":"Cleveland Rocks!",
     "Matchup_Wins":7,
-    "Matchup_Losses":5,
-    "Matchup_Draws":1,
+    "Matchup_Losses":6,
+    "Matchup_Draws":0,
     "Total_Cat_Wins":60,
-    "Total_Cat_Losses":53,
-    "Total_Cat_Draws":4
+    "Total_Cat_Losses":54,
+    "Total_Cat_Draws":3
   },
   {
     "Week":6,
@@ -785,9 +785,9 @@
     "Matchup_Wins":4,
     "Matchup_Losses":9,
     "Matchup_Draws":0,
-    "Total_Cat_Wins":46,
+    "Total_Cat_Wins":47,
     "Total_Cat_Losses":70,
-    "Total_Cat_Draws":1
+    "Total_Cat_Draws":0
   },
   {
     "Week":6,
@@ -796,18 +796,18 @@
     "Matchup_Losses":3,
     "Matchup_Draws":0,
     "Total_Cat_Wins":71,
-    "Total_Cat_Losses":41,
-    "Total_Cat_Draws":5
+    "Total_Cat_Losses":43,
+    "Total_Cat_Draws":3
   },
   {
     "Week":6,
     "Team":"SeGA Statums",
-    "Matchup_Wins":6,
+    "Matchup_Wins":7,
     "Matchup_Losses":6,
-    "Matchup_Draws":1,
-    "Total_Cat_Wins":59,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":60,
     "Total_Cat_Losses":55,
-    "Total_Cat_Draws":3
+    "Total_Cat_Draws":2
   },
   {
     "Week":6,
@@ -845,9 +845,9 @@
     "Matchup_Wins":0,
     "Matchup_Losses":12,
     "Matchup_Draws":1,
-    "Total_Cat_Wins":35,
+    "Total_Cat_Wins":36,
     "Total_Cat_Losses":80,
-    "Total_Cat_Draws":2
+    "Total_Cat_Draws":1
   },
   {
     "Week":7,
@@ -896,8 +896,8 @@
     "Matchup_Losses":10,
     "Matchup_Draws":0,
     "Total_Cat_Wins":43,
-    "Total_Cat_Losses":70,
-    "Total_Cat_Draws":4
+    "Total_Cat_Losses":71,
+    "Total_Cat_Draws":3
   },
   {
     "Week":7,
@@ -936,8 +936,8 @@
     "Matchup_Losses":0,
     "Matchup_Draws":0,
     "Total_Cat_Wins":89,
-    "Total_Cat_Losses":27,
-    "Total_Cat_Draws":1
+    "Total_Cat_Losses":28,
+    "Total_Cat_Draws":0
   },
   {
     "Week":7,
@@ -965,9 +965,9 @@
     "Matchup_Wins":5,
     "Matchup_Losses":8,
     "Matchup_Draws":0,
-    "Total_Cat_Wins":54,
+    "Total_Cat_Wins":55,
     "Total_Cat_Losses":61,
-    "Total_Cat_Draws":2
+    "Total_Cat_Draws":1
   },
   {
     "Week":7,
