@@ -3,7 +3,7 @@
     "league_id": "14034",
     "league_name": "Domination League",
     "season": "2025",
-    "generated_at": "2025-12-12T14:46:58.543611Z",
+    "generated_at": "2025-12-12T15:31:59.745880Z",
     "source": "yahoo_fantasy_api + daily aggregation"
   },
   "weeks": {
@@ -896,25 +896,25 @@
           "player_id": 6395,
           "name": "LaMelo Ball",
           "team": null,
-          "rating": 18.701085855201647
+          "rating": 18.70108585520164
         },
         {
           "player_id": 4612,
           "name": "Stephen Curry",
           "team": null,
-          "rating": 17.84084030279557
+          "rating": 17.840840302795563
         },
         {
           "player_id": 5185,
           "name": "Giannis Antetokounmpo",
           "team": null,
-          "rating": 16.490794394377254
+          "rating": 16.490794394377247
         },
         {
           "player_id": 6606,
           "name": "Austin Reaves",
           "team": null,
-          "rating": 15.073352457078366
+          "rating": 15.07335245707836
         }
       ]
     },
@@ -1807,7 +1807,7 @@
           "player_id": 5473,
           "name": "Devin Booker",
           "team": null,
-          "rating": 16.931372344714102
+          "rating": 16.9313723447141
         },
         {
           "player_id": 6514,
@@ -1819,7 +1819,7 @@
           "player_id": 6606,
           "name": "Austin Reaves",
           "team": null,
-          "rating": 16.35396304892765
+          "rating": 16.353963048927646
         },
         {
           "player_id": 6548,
@@ -2730,7 +2730,7 @@
           "player_id": 10294,
           "name": "Alex Sarr",
           "team": null,
-          "rating": 15.33669511830806
+          "rating": 15.336695118308059
         },
         {
           "player_id": 5471,
@@ -5451,19 +5451,19 @@
           "player_id": 5843,
           "name": "Josh Hart",
           "team": null,
-          "rating": 18.90315588444125
+          "rating": 18.903155884441254
         },
         {
           "player_id": 6355,
           "name": "Anthony Edwards",
           "team": null,
-          "rating": 17.57260673770103
+          "rating": 17.572606737701033
         },
         {
           "player_id": 5602,
           "name": "Jaylen Brown",
           "team": null,
-          "rating": 17.452195228264298
+          "rating": 17.4521952282643
         },
         {
           "player_id": 6014,
@@ -6362,7 +6362,7 @@
           "player_id": 6413,
           "name": "Tyrese Maxey",
           "team": null,
-          "rating": 17.878342600377362
+          "rating": 17.878342600377366
         },
         {
           "player_id": 6512,
