@@ -3,7 +3,7 @@
     "league_id": "14034",
     "league_name": "Domination League",
     "season": "2025",
-    "generated_at": "2025-12-12T13:43:07.323427Z",
+    "generated_at": "2025-12-12T14:46:58.543611Z",
     "source": "yahoo_fantasy_api + daily aggregation"
   },
   "weeks": {
@@ -49,7 +49,8 @@
             "Sektzia Shefel"
           ],
           "value": 16.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6452,
@@ -89,7 +90,8 @@
             "The Zionist"
           ],
           "value": 15.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6395,
@@ -129,7 +131,8 @@
             "James of Thrones"
           ],
           "value": 13.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "PTS": [
@@ -171,7 +174,8 @@
             "SeGA Statums"
           ],
           "value": 120.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5185,
@@ -211,7 +215,8 @@
             "Werder bremen"
           ],
           "value": 108.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6606,
@@ -251,7 +256,8 @@
             "Foxy Fox"
           ],
           "value": 102.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "REB": [
@@ -293,7 +299,8 @@
             "Werder bremen"
           ],
           "value": 48.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5432,
@@ -333,7 +340,8 @@
             "The Glove"
           ],
           "value": 42.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10094,
@@ -373,7 +381,8 @@
             "Dirk Dirk"
           ],
           "value": 40.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "AST": [
@@ -415,7 +424,8 @@
             "Dirk Dirk"
           ],
           "value": 31.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6395,
@@ -455,7 +465,8 @@
             "James of Thrones"
           ],
           "value": 29.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6606,
@@ -495,7 +506,8 @@
             "Foxy Fox"
           ],
           "value": 29.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "ST": [
@@ -537,7 +549,8 @@
             "Maccabi Heat Haifa"
           ],
           "value": 8.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5858,
@@ -577,7 +590,8 @@
             "Baked Zucchini\u2019s"
           ],
           "value": 8.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6163,
@@ -617,7 +631,8 @@
             "Werder bremen"
           ],
           "value": 8.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "BLK": [
@@ -659,7 +674,8 @@
             "Dirk Dirk"
           ],
           "value": 18.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5471,
@@ -699,7 +715,8 @@
             "Baked Zucchini\u2019s"
           ],
           "value": 7.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6015,
@@ -739,7 +756,8 @@
             "SeGA Statums"
           ],
           "value": 7.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "TO": [
@@ -781,7 +799,8 @@
             "Why Not"
           ],
           "value": 20.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5473,
@@ -821,7 +840,8 @@
             "Kligers"
           ],
           "value": 18.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6512,
@@ -861,7 +881,40 @@
             "Sektzia Shefel"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "yahoo_rater_top5": [
+        {
+          "player_id": 10094,
+          "name": "Victor Wembanyama",
+          "team": null,
+          "rating": 22.323418277171932
+        },
+        {
+          "player_id": 6395,
+          "name": "LaMelo Ball",
+          "team": null,
+          "rating": 18.701085855201647
+        },
+        {
+          "player_id": 4612,
+          "name": "Stephen Curry",
+          "team": null,
+          "rating": 17.84084030279557
+        },
+        {
+          "player_id": 5185,
+          "name": "Giannis Antetokounmpo",
+          "team": null,
+          "rating": 16.490794394377254
+        },
+        {
+          "player_id": 6606,
+          "name": "Austin Reaves",
+          "team": null,
+          "rating": 15.073352457078366
         }
       ]
     },
@@ -907,7 +960,8 @@
             "Kligers"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5905,
@@ -947,7 +1001,8 @@
             "Dirk Dirk"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5769,
@@ -987,7 +1042,8 @@
             "James of Thrones"
           ],
           "value": 15.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "PTS": [
@@ -1029,7 +1085,8 @@
             "James of Thrones"
           ],
           "value": 145.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6413,
@@ -1069,7 +1126,8 @@
             "Uncle Drew"
           ],
           "value": 134.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5473,
@@ -1109,7 +1167,8 @@
             "Kligers"
           ],
           "value": 130.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "REB": [
@@ -1151,7 +1210,8 @@
             "James of Thrones"
           ],
           "value": 52.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5856,
@@ -1191,7 +1251,8 @@
             "Uncle Drew"
           ],
           "value": 48.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5352,
@@ -1231,7 +1292,8 @@
             "Kligers"
           ],
           "value": 45.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "AST": [
@@ -1273,7 +1335,8 @@
             "Uncle Drew"
           ],
           "value": 39.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6548,
@@ -1313,7 +1376,8 @@
             "Foxy Fox"
           ],
           "value": 38.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6606,
@@ -1353,7 +1417,8 @@
             "Foxy Fox"
           ],
           "value": 36.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "ST": [
@@ -1395,7 +1460,8 @@
             "Werder bremen"
           ],
           "value": 13.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10107,
@@ -1435,7 +1501,8 @@
             "Maccabi Heat Haifa"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5905,
@@ -1475,7 +1542,8 @@
             "Dirk Dirk"
           ],
           "value": 9.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "BLK": [
@@ -1517,7 +1585,8 @@
             "Dirk Dirk"
           ],
           "value": 12.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10335,
@@ -1557,7 +1626,8 @@
             "Cleveland Rocks!"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10094,
@@ -1597,7 +1667,8 @@
             "Dirk Dirk"
           ],
           "value": 10.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "TO": [
@@ -1639,7 +1710,8 @@
             "The Glove"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6606,
@@ -1679,7 +1751,8 @@
             "Foxy Fox"
           ],
           "value": 16.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5327,
@@ -1719,7 +1792,40 @@
             "Maccabi Heat Haifa"
           ],
           "value": 15.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "yahoo_rater_top5": [
+        {
+          "player_id": 6413,
+          "name": "Tyrese Maxey",
+          "team": null,
+          "rating": 18.94527866311666
+        },
+        {
+          "player_id": 5473,
+          "name": "Devin Booker",
+          "team": null,
+          "rating": 16.931372344714102
+        },
+        {
+          "player_id": 6514,
+          "name": "Evan Mobley",
+          "team": null,
+          "rating": 16.821703181695142
+        },
+        {
+          "player_id": 6606,
+          "name": "Austin Reaves",
+          "team": null,
+          "rating": 16.35396304892765
+        },
+        {
+          "player_id": 6548,
+          "name": "Josh Giddey",
+          "team": null,
+          "rating": 16.05871077533634
         }
       ]
     },
@@ -1765,7 +1871,8 @@
             "Cleveland Rocks!"
           ],
           "value": 15.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6355,
@@ -1805,7 +1912,8 @@
             "Cleveland Rocks!"
           ],
           "value": 15.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6413,
@@ -1845,7 +1953,8 @@
             "Uncle Drew"
           ],
           "value": 15.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "PTS": [
@@ -1887,7 +1996,8 @@
             "Werder bremen"
           ],
           "value": 133.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5602,
@@ -1927,7 +2037,8 @@
             "Uncle Drew"
           ],
           "value": 130.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6022,
@@ -1967,7 +2078,8 @@
             "SeGA Statums"
           ],
           "value": 130.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "REB": [
@@ -2009,7 +2121,8 @@
             "Uncle Drew"
           ],
           "value": 58.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5663,
@@ -2049,7 +2162,8 @@
             "SeGA Statums"
           ],
           "value": 51.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5856,
@@ -2089,7 +2203,8 @@
             "Uncle Drew"
           ],
           "value": 50.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "AST": [
@@ -2131,7 +2246,8 @@
             "Kligers"
           ],
           "value": 53.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6164,
@@ -2171,7 +2287,8 @@
             "Baked Zucchini\u2019s"
           ],
           "value": 39.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6512,
@@ -2211,7 +2328,8 @@
             "Sektzia Shefel"
           ],
           "value": 39.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "ST": [
@@ -2253,7 +2371,8 @@
             "Why Not"
           ],
           "value": 12.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6551,
@@ -2293,7 +2412,8 @@
             "Werder bremen"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10096,
@@ -2333,7 +2453,8 @@
             "Werder bremen"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "BLK": [
@@ -2375,7 +2496,8 @@
             "Foxy Fox"
           ],
           "value": 12.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6617,
@@ -2415,7 +2537,8 @@
             "Cleveland Rocks!"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5471,
@@ -2455,7 +2578,8 @@
             "Baked Zucchini\u2019s"
           ],
           "value": 10.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "TO": [
@@ -2497,7 +2621,8 @@
             "Baked Zucchini\u2019s"
           ],
           "value": 21.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 4390,
@@ -2537,7 +2662,8 @@
             "Kligers"
           ],
           "value": 18.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6558,
@@ -2577,7 +2703,40 @@
             "Maccabi Heat Haifa"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "yahoo_rater_top5": [
+        {
+          "player_id": 5352,
+          "name": "Nikola Joki\u0107",
+          "team": null,
+          "rating": 22.609612360633417
+        },
+        {
+          "player_id": 6413,
+          "name": "Tyrese Maxey",
+          "team": null,
+          "rating": 18.350013348424646
+        },
+        {
+          "player_id": 4390,
+          "name": "Russell Westbrook",
+          "team": null,
+          "rating": 15.672477594294667
+        },
+        {
+          "player_id": 10294,
+          "name": "Alex Sarr",
+          "team": null,
+          "rating": 15.33669511830806
+        },
+        {
+          "player_id": 5471,
+          "name": "Myles Turner",
+          "team": null,
+          "rating": 14.589232864118813
         }
       ]
     },
@@ -2623,7 +2782,8 @@
             "James of Thrones"
           ],
           "value": 21.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 4563,
@@ -2663,7 +2823,8 @@
             "Dirk Dirk"
           ],
           "value": 18.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6023,
@@ -2703,7 +2864,8 @@
             "Cleveland Rocks!"
           ],
           "value": 18.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "PTS": [
@@ -2745,7 +2907,8 @@
             "James of Thrones"
           ],
           "value": 143.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 1
         },
         {
           "player_id": 4563,
@@ -2785,7 +2948,8 @@
             "Dirk Dirk"
           ],
           "value": 136.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6014,
@@ -2825,7 +2989,8 @@
             "The Zionist"
           ],
           "value": 122.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "REB": [
@@ -2867,7 +3032,8 @@
             "Uncle Drew"
           ],
           "value": 48.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5327,
@@ -2907,7 +3073,8 @@
             "Maccabi Heat Haifa"
           ],
           "value": 45.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5663,
@@ -2947,7 +3114,8 @@
             "SeGA Statums"
           ],
           "value": 44.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "AST": [
@@ -2989,7 +3157,8 @@
             "Uncle Drew"
           ],
           "value": 37.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 4390,
@@ -3029,7 +3198,8 @@
             "Kligers"
           ],
           "value": 35.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 4563,
@@ -3069,7 +3239,8 @@
             "Dirk Dirk"
           ],
           "value": 35.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "ST": [
@@ -3111,7 +3282,8 @@
             "The Zionist"
           ],
           "value": 13.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 4912,
@@ -3151,7 +3323,8 @@
             "The Zionist"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10440,
@@ -3191,7 +3364,8 @@
             "Kligers"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "BLK": [
@@ -3233,7 +3407,8 @@
             "Dirk Dirk"
           ],
           "value": 9.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 1
         },
         {
           "player_id": 10524,
@@ -3273,7 +3448,8 @@
             "Maccabi Heat Haifa"
           ],
           "value": 9.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6219,
@@ -3313,7 +3489,8 @@
             "Werder bremen"
           ],
           "value": 8.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "TO": [
@@ -3355,7 +3532,8 @@
             "Maccabi Heat Haifa"
           ],
           "value": 18.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6559,
@@ -3395,7 +3573,8 @@
             "Baked Zucchini\u2019s"
           ],
           "value": 18.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5185,
@@ -3435,7 +3614,40 @@
             "Werder bremen"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "yahoo_rater_top5": [
+        {
+          "player_id": 4563,
+          "name": "James Harden",
+          "team": null,
+          "rating": 20.61131698415482
+        },
+        {
+          "player_id": 6562,
+          "name": "Jalen Johnson",
+          "team": null,
+          "rating": 19.1575803473349
+        },
+        {
+          "player_id": 10094,
+          "name": "Victor Wembanyama",
+          "team": null,
+          "rating": 18.451475829305995
+        },
+        {
+          "player_id": 6014,
+          "name": "Luka Don\u010di\u0107",
+          "team": null,
+          "rating": 18.213140802958726
+        },
+        {
+          "player_id": 5352,
+          "name": "Nikola Joki\u0107",
+          "team": null,
+          "rating": 15.224464317637896
         }
       ]
     },
@@ -3481,7 +3693,8 @@
             "SeGA Statums"
           ],
           "value": 22.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6413,
@@ -3521,7 +3734,8 @@
             "Uncle Drew"
           ],
           "value": 20.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 4563,
@@ -3561,7 +3775,8 @@
             "Dirk Dirk"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "PTS": [
@@ -3603,7 +3818,8 @@
             "Uncle Drew"
           ],
           "value": 144.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5352,
@@ -3643,7 +3859,8 @@
             "Kligers"
           ],
           "value": 142.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 4563,
@@ -3683,7 +3900,8 @@
             "Dirk Dirk"
           ],
           "value": 133.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "REB": [
@@ -3725,7 +3943,8 @@
             "Kligers"
           ],
           "value": 62.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10274,
@@ -3765,7 +3984,8 @@
             "Why Not"
           ],
           "value": 60.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5663,
@@ -3805,7 +4025,8 @@
             "SeGA Statums"
           ],
           "value": 59.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "AST": [
@@ -3847,7 +4068,8 @@
             "Kligers"
           ],
           "value": 41.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 1
         },
         {
           "player_id": 6548,
@@ -3887,7 +4109,8 @@
             "Foxy Fox"
           ],
           "value": 39.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6562,
@@ -3927,7 +4150,8 @@
             "Uncle Drew"
           ],
           "value": 36.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "ST": [
@@ -3969,7 +4193,8 @@
             "Baked Zucchini\u2019s"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10095,
@@ -4009,7 +4234,8 @@
             "Dirk Dirk"
           ],
           "value": 10.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10107,
@@ -4049,7 +4275,8 @@
             "Maccabi Heat Haifa"
           ],
           "value": 10.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "BLK": [
@@ -4091,7 +4318,8 @@
             "Maccabi Heat Haifa"
           ],
           "value": 9.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10285,
@@ -4131,7 +4359,8 @@
             "Baked Zucchini\u2019s"
           ],
           "value": 9.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6408,
@@ -4171,7 +4400,8 @@
             "Cleveland Rocks!"
           ],
           "value": 8.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "TO": [
@@ -4213,7 +4443,8 @@
             "Kligers"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5601,
@@ -4253,7 +4484,8 @@
             "James of Thrones"
           ],
           "value": 16.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10444,
@@ -4293,7 +4525,40 @@
             "Sektzia Shefel"
           ],
           "value": 16.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "yahoo_rater_top5": [
+        {
+          "player_id": 5352,
+          "name": "Nikola Joki\u0107",
+          "team": null,
+          "rating": 23.1211422763935
+        },
+        {
+          "player_id": 6413,
+          "name": "Tyrese Maxey",
+          "team": null,
+          "rating": 22.79952821431118
+        },
+        {
+          "player_id": 6562,
+          "name": "Jalen Johnson",
+          "team": null,
+          "rating": 17.802283493761752
+        },
+        {
+          "player_id": 4563,
+          "name": "James Harden",
+          "team": null,
+          "rating": 17.704234774830994
+        },
+        {
+          "player_id": 5826,
+          "name": "Donovan Mitchell",
+          "team": null,
+          "rating": 15.664276220045139
         }
       ]
     },
@@ -4339,7 +4604,8 @@
             "Cleveland Rocks!"
           ],
           "value": 19.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 1
         },
         {
           "player_id": 6751,
@@ -4379,7 +4645,8 @@
             "Foxy Fox"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5638,
@@ -4419,7 +4686,8 @@
             "Sektzia Shefel"
           ],
           "value": 16.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "PTS": [
@@ -4461,7 +4729,8 @@
             "Cleveland Rocks!"
           ],
           "value": 145.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6512,
@@ -4501,7 +4770,8 @@
             "Sektzia Shefel"
           ],
           "value": 134.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6044,
@@ -4541,7 +4811,8 @@
             "Why Not"
           ],
           "value": 115.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "REB": [
@@ -4583,7 +4854,8 @@
             "Dirk Dirk"
           ],
           "value": 52.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5843,
@@ -4623,7 +4895,8 @@
             "The Zionist"
           ],
           "value": 47.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5197,
@@ -4663,7 +4936,8 @@
             "Werder bremen"
           ],
           "value": 41.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "AST": [
@@ -4705,7 +4979,8 @@
             "Kligers"
           ],
           "value": 36.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 2
         },
         {
           "player_id": 6737,
@@ -4745,7 +5020,8 @@
             "Foxy Fox"
           ],
           "value": 36.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 4390,
@@ -4785,7 +5061,8 @@
             "Uncle Drew"
           ],
           "value": 31.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "ST": [
@@ -4827,7 +5104,8 @@
             "The Zionist"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6694,
@@ -4867,7 +5145,8 @@
             "Maccabi Heat Haifa"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6021,
@@ -4907,7 +5186,8 @@
             "The Zionist"
           ],
           "value": 9.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "BLK": [
@@ -4949,7 +5229,8 @@
             "Cleveland Rocks!"
           ],
           "value": 13.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 10287,
@@ -4989,7 +5270,8 @@
             "Dirk Dirk"
           ],
           "value": 10.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6038,
@@ -5029,7 +5311,8 @@
             "Kligers"
           ],
           "value": 9.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "TO": [
@@ -5071,7 +5354,8 @@
             "Sektzia Shefel"
           ],
           "value": 23.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 4563,
@@ -5111,7 +5395,8 @@
             "Dirk Dirk"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 4390,
@@ -5151,7 +5436,40 @@
             "Uncle Drew"
           ],
           "value": 15.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "yahoo_rater_top5": [
+        {
+          "player_id": 6512,
+          "name": "Cade Cunningham",
+          "team": null,
+          "rating": 20.45976433639388
+        },
+        {
+          "player_id": 5843,
+          "name": "Josh Hart",
+          "team": null,
+          "rating": 18.90315588444125
+        },
+        {
+          "player_id": 6355,
+          "name": "Anthony Edwards",
+          "team": null,
+          "rating": 17.57260673770103
+        },
+        {
+          "player_id": 5602,
+          "name": "Jaylen Brown",
+          "team": null,
+          "rating": 17.452195228264298
+        },
+        {
+          "player_id": 6014,
+          "name": "Luka Don\u010di\u0107",
+          "team": null,
+          "rating": 16.42195299381755
         }
       ]
     },
@@ -5197,7 +5515,8 @@
             "Why Not"
           ],
           "value": 20.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5638,
@@ -5237,7 +5556,8 @@
             "Sektzia Shefel"
           ],
           "value": 18.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6025,
@@ -5277,7 +5597,8 @@
             "Cleveland Rocks!"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "PTS": [
@@ -5319,7 +5640,8 @@
             "Cleveland Rocks!"
           ],
           "value": 133.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5352,
@@ -5359,7 +5681,8 @@
             "Kligers"
           ],
           "value": 121.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5638,
@@ -5399,7 +5722,8 @@
             "Sektzia Shefel"
           ],
           "value": 119.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "REB": [
@@ -5441,7 +5765,8 @@
             "SeGA Statums"
           ],
           "value": 49.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5007,
@@ -5481,7 +5806,8 @@
             "Kligers"
           ],
           "value": 46.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 5352,
@@ -5521,7 +5847,8 @@
             "Kligers"
           ],
           "value": 46.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "AST": [
@@ -5563,7 +5890,8 @@
             "Kligers"
           ],
           "value": 45.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 3
         },
         {
           "player_id": 6512,
@@ -5603,7 +5931,8 @@
             "Sektzia Shefel"
           ],
           "value": 36.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6401,
@@ -5643,7 +5972,8 @@
             "The Zionist"
           ],
           "value": 35.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "ST": [
@@ -5685,7 +6015,8 @@
             "Uncle Drew"
           ],
           "value": 12.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6218,
@@ -5725,7 +6056,8 @@
             "Baked Zucchini\u2019s"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6516,
@@ -5765,7 +6097,8 @@
             "Werder bremen"
           ],
           "value": 11.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "BLK": [
@@ -5807,7 +6140,8 @@
             "Cleveland Rocks!"
           ],
           "value": 12.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6514,
@@ -5847,7 +6181,8 @@
             "Maccabi Heat Haifa"
           ],
           "value": 10.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6617,
@@ -5887,7 +6222,8 @@
             "Cleveland Rocks!"
           ],
           "value": 10.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         }
       ],
       "TO": [
@@ -5929,7 +6265,8 @@
             "Foxy Fox"
           ],
           "value": 20.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6401,
@@ -5969,7 +6306,8 @@
             "The Zionist"
           ],
           "value": 17.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
         },
         {
           "player_id": 6355,
@@ -6009,7 +6347,40 @@
             "Cleveland Rocks!"
           ],
           "value": 16.0,
-          "type": "total"
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "yahoo_rater_top5": [
+        {
+          "player_id": 5352,
+          "name": "Nikola Joki\u0107",
+          "team": null,
+          "rating": 19.426195422229195
+        },
+        {
+          "player_id": 6413,
+          "name": "Tyrese Maxey",
+          "team": null,
+          "rating": 17.878342600377362
+        },
+        {
+          "player_id": 6512,
+          "name": "Cade Cunningham",
+          "team": null,
+          "rating": 17.82178130278575
+        },
+        {
+          "player_id": 6218,
+          "name": "Kevin Porter Jr.",
+          "team": null,
+          "rating": 17.74918446558415
+        },
+        {
+          "player_id": 6401,
+          "name": "Deni Avdija",
+          "team": null,
+          "rating": 16.62934807511052
         }
       ]
     }
