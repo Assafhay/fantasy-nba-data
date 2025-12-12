@@ -3,7 +3,7 @@
     "league_id": "14034",
     "league_name": "Domination League",
     "season": "2025",
-    "generated_at": "2025-12-12T11:24:05.436467Z",
+    "generated_at": "2025-12-12T13:43:07.323427Z",
     "source": "yahoo_fantasy_api + daily aggregation"
   },
   "weeks": {
@@ -45,6 +45,9 @@
             "BLK_per_g": 1.3333333333333333,
             "TO_per_g": 2.6666666666666665
           },
+          "fantasy_teams": [
+            "Sektzia Shefel"
+          ],
           "value": 16.0,
           "type": "total"
         },
@@ -82,6 +85,9 @@
             "BLK_per_g": 0.3333333333333333,
             "TO_per_g": 1.6666666666666667
           },
+          "fantasy_teams": [
+            "The Zionist"
+          ],
           "value": 15.0,
           "type": "total"
         },
@@ -119,6 +125,9 @@
             "BLK_per_g": 0.3333333333333333,
             "TO_per_g": 3.6666666666666665
           },
+          "fantasy_teams": [
+            "James of Thrones"
+          ],
           "value": 13.0,
           "type": "total"
         }
@@ -158,6 +167,9 @@
             "BLK_per_g": 1.3333333333333333,
             "TO_per_g": 2.3333333333333335
           },
+          "fantasy_teams": [
+            "SeGA Statums"
+          ],
           "value": 120.0,
           "type": "total"
         },
@@ -195,6 +207,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
           "value": 108.0,
           "type": "total"
         },
@@ -232,6 +247,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 2.6666666666666665
           },
+          "fantasy_teams": [
+            "Foxy Fox"
+          ],
           "value": 102.0,
           "type": "total"
         }
@@ -271,6 +289,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
           "value": 48.0,
           "type": "total"
         },
@@ -308,6 +329,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.6666666666666665
           },
+          "fantasy_teams": [
+            "The Glove"
+          ],
           "value": 42.0,
           "type": "total"
         },
@@ -345,6 +369,9 @@
             "BLK_per_g": 6.0,
             "TO_per_g": 0.6666666666666666
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 40.0,
           "type": "total"
         }
@@ -384,6 +411,9 @@
             "BLK_per_g": 0.3333333333333333,
             "TO_per_g": 4.333333333333333
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 31.0,
           "type": "total"
         },
@@ -421,6 +451,9 @@
             "BLK_per_g": 0.3333333333333333,
             "TO_per_g": 3.6666666666666665
           },
+          "fantasy_teams": [
+            "James of Thrones"
+          ],
           "value": 29.0,
           "type": "total"
         },
@@ -458,6 +491,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 2.6666666666666665
           },
+          "fantasy_teams": [
+            "Foxy Fox"
+          ],
           "value": 29.0,
           "type": "total"
         }
@@ -497,6 +533,9 @@
             "BLK_per_g": 0.6666666666666666,
             "TO_per_g": 2.3333333333333335
           },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
           "value": 8.0,
           "type": "total"
         },
@@ -534,6 +573,9 @@
             "BLK_per_g": 0.6666666666666666,
             "TO_per_g": 2.3333333333333335
           },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
           "value": 8.0,
           "type": "total"
         },
@@ -571,6 +613,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 3.5
           },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
           "value": 8.0,
           "type": "total"
         }
@@ -610,6 +655,9 @@
             "BLK_per_g": 6.0,
             "TO_per_g": 0.6666666666666666
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 18.0,
           "type": "total"
         },
@@ -647,6 +695,9 @@
             "BLK_per_g": 2.3333333333333335,
             "TO_per_g": 2.3333333333333335
           },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
           "value": 7.0,
           "type": "total"
         },
@@ -684,6 +735,9 @@
             "BLK_per_g": 2.3333333333333335,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "SeGA Statums"
+          ],
           "value": 7.0,
           "type": "total"
         }
@@ -723,6 +777,9 @@
             "BLK_per_g": 0.3333333333333333,
             "TO_per_g": 6.666666666666667
           },
+          "fantasy_teams": [
+            "Why Not"
+          ],
           "value": 20.0,
           "type": "total"
         },
@@ -760,6 +817,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 6.0
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 18.0,
           "type": "total"
         },
@@ -797,6 +857,9 @@
             "BLK_per_g": 0.6666666666666666,
             "TO_per_g": 5.666666666666667
           },
+          "fantasy_teams": [
+            "Sektzia Shefel"
+          ],
           "value": 17.0,
           "type": "total"
         }
@@ -840,6 +903,9 @@
             "BLK_per_g": 0.75,
             "TO_per_g": 2.75
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 17.0,
           "type": "total"
         },
@@ -877,6 +943,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 2.0
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 17.0,
           "type": "total"
         },
@@ -914,6 +983,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 1.0
           },
+          "fantasy_teams": [
+            "James of Thrones"
+          ],
           "value": 15.0,
           "type": "total"
         }
@@ -953,6 +1025,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 1.0
           },
+          "fantasy_teams": [
+            "James of Thrones"
+          ],
           "value": 145.0,
           "type": "total"
         },
@@ -990,6 +1065,9 @@
             "BLK_per_g": 0.75,
             "TO_per_g": 2.75
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 134.0,
           "type": "total"
         },
@@ -1027,6 +1105,9 @@
             "BLK_per_g": 0.75,
             "TO_per_g": 2.75
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 130.0,
           "type": "total"
         }
@@ -1066,6 +1147,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 1.75
           },
+          "fantasy_teams": [
+            "James of Thrones"
+          ],
           "value": 52.0,
           "type": "total"
         },
@@ -1103,6 +1187,9 @@
             "BLK_per_g": 0.75,
             "TO_per_g": 2.0
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 48.0,
           "type": "total"
         },
@@ -1140,6 +1227,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 2.6666666666666665
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 45.0,
           "type": "total"
         }
@@ -1179,6 +1269,9 @@
             "BLK_per_g": 0.75,
             "TO_per_g": 2.75
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 39.0,
           "type": "total"
         },
@@ -1216,6 +1309,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Foxy Fox"
+          ],
           "value": 38.0,
           "type": "total"
         },
@@ -1253,6 +1349,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 4.0
           },
+          "fantasy_teams": [
+            "Foxy Fox"
+          ],
           "value": 36.0,
           "type": "total"
         }
@@ -1292,6 +1391,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 1.25
           },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
           "value": 13.0,
           "type": "total"
         },
@@ -1329,6 +1431,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 0.75
           },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
           "value": 11.0,
           "type": "total"
         },
@@ -1366,6 +1471,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 2.0
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 9.0,
           "type": "total"
         }
@@ -1405,6 +1513,9 @@
             "BLK_per_g": 3.0,
             "TO_per_g": 1.25
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 12.0,
           "type": "total"
         },
@@ -1442,6 +1553,9 @@
             "BLK_per_g": 2.75,
             "TO_per_g": 0.5
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 11.0,
           "type": "total"
         },
@@ -1479,6 +1593,9 @@
             "BLK_per_g": 3.3333333333333335,
             "TO_per_g": 4.333333333333333
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 10.0,
           "type": "total"
         }
@@ -1518,6 +1635,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 4.25
           },
+          "fantasy_teams": [
+            "The Glove"
+          ],
           "value": 17.0,
           "type": "total"
         },
@@ -1555,6 +1675,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 4.0
           },
+          "fantasy_teams": [
+            "Foxy Fox"
+          ],
           "value": 16.0,
           "type": "total"
         },
@@ -1592,6 +1715,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 3.75
           },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
           "value": 15.0,
           "type": "total"
         }
@@ -1635,6 +1761,9 @@
             "BLK_per_g": 0.3333333333333333,
             "TO_per_g": 2.0
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 15.0,
           "type": "total"
         },
@@ -1672,6 +1801,9 @@
             "BLK_per_g": 0.3333333333333333,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 15.0,
           "type": "total"
         },
@@ -1709,6 +1841,9 @@
             "BLK_per_g": 1.25,
             "TO_per_g": 3.25
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 15.0,
           "type": "total"
         }
@@ -1748,6 +1883,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 2.75
           },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
           "value": 133.0,
           "type": "total"
         },
@@ -1785,6 +1923,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 130.0,
           "type": "total"
         },
@@ -1822,6 +1963,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 1.0
           },
+          "fantasy_teams": [
+            "SeGA Statums"
+          ],
           "value": 130.0,
           "type": "total"
         }
@@ -1861,6 +2005,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 1.75
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 58.0,
           "type": "total"
         },
@@ -1898,6 +2045,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 2.5
           },
+          "fantasy_teams": [
+            "SeGA Statums"
+          ],
           "value": 51.0,
           "type": "total"
         },
@@ -1935,6 +2085,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 2.5
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 50.0,
           "type": "total"
         }
@@ -1974,6 +2127,9 @@
             "BLK_per_g": 0.75,
             "TO_per_g": 3.25
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 53.0,
           "type": "total"
         },
@@ -2011,6 +2167,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 5.25
           },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
           "value": 39.0,
           "type": "total"
         },
@@ -2048,6 +2207,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 3.75
           },
+          "fantasy_teams": [
+            "Sektzia Shefel"
+          ],
           "value": 39.0,
           "type": "total"
         }
@@ -2087,6 +2249,9 @@
             "BLK_per_g": 1.25,
             "TO_per_g": 1.25
           },
+          "fantasy_teams": [
+            "Why Not"
+          ],
           "value": 12.0,
           "type": "total"
         },
@@ -2124,6 +2289,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 1.25
           },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
           "value": 11.0,
           "type": "total"
         },
@@ -2161,6 +2329,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 1.75
           },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
           "value": 11.0,
           "type": "total"
         }
@@ -2200,6 +2371,9 @@
             "BLK_per_g": 3.0,
             "TO_per_g": 2.25
           },
+          "fantasy_teams": [
+            "Foxy Fox"
+          ],
           "value": 12.0,
           "type": "total"
         },
@@ -2237,6 +2411,9 @@
             "BLK_per_g": 2.75,
             "TO_per_g": 0.75
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 11.0,
           "type": "total"
         },
@@ -2274,6 +2451,9 @@
             "BLK_per_g": 2.5,
             "TO_per_g": 1.5
           },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
           "value": 10.0,
           "type": "total"
         }
@@ -2313,6 +2493,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 5.25
           },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
           "value": 21.0,
           "type": "total"
         },
@@ -2350,6 +2533,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 4.5
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 18.0,
           "type": "total"
         },
@@ -2387,6 +2573,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 4.25
           },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
           "value": 17.0,
           "type": "total"
         }
@@ -2430,6 +2619,9 @@
             "BLK_per_g": 0.75,
             "TO_per_g": 1.5
           },
+          "fantasy_teams": [
+            "James of Thrones"
+          ],
           "value": 21.0,
           "type": "total"
         },
@@ -2467,6 +2659,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.5
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 18.0,
           "type": "total"
         },
@@ -2504,6 +2699,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 1.5
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 18.0,
           "type": "total"
         }
@@ -2543,6 +2741,9 @@
             "BLK_per_g": 0.75,
             "TO_per_g": 1.5
           },
+          "fantasy_teams": [
+            "James of Thrones"
+          ],
           "value": 143.0,
           "type": "total"
         },
@@ -2580,6 +2781,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.5
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 136.0,
           "type": "total"
         },
@@ -2617,6 +2821,9 @@
             "BLK_per_g": 0.75,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "The Zionist"
+          ],
           "value": 122.0,
           "type": "total"
         }
@@ -2656,6 +2863,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 3.25
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 48.0,
           "type": "total"
         },
@@ -2693,6 +2903,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 2.75
           },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
           "value": 45.0,
           "type": "total"
         },
@@ -2730,6 +2943,9 @@
             "BLK_per_g": 1.5,
             "TO_per_g": 2.5
           },
+          "fantasy_teams": [
+            "SeGA Statums"
+          ],
           "value": 44.0,
           "type": "total"
         }
@@ -2769,6 +2985,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 3.25
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 37.0,
           "type": "total"
         },
@@ -2806,6 +3025,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 4.0
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 35.0,
           "type": "total"
         },
@@ -2843,6 +3065,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.5
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 35.0,
           "type": "total"
         }
@@ -2882,6 +3107,9 @@
             "BLK_per_g": 0.6666666666666666,
             "TO_per_g": 0.6666666666666666
           },
+          "fantasy_teams": [
+            "The Zionist"
+          ],
           "value": 13.0,
           "type": "total"
         },
@@ -2919,6 +3147,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 2.0
           },
+          "fantasy_teams": [
+            "The Zionist"
+          ],
           "value": 11.0,
           "type": "total"
         },
@@ -2956,6 +3187,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 3.5
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 11.0,
           "type": "total"
         }
@@ -2995,6 +3229,9 @@
             "BLK_per_g": 3.0,
             "TO_per_g": 4.666666666666667
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 9.0,
           "type": "total"
         },
@@ -3032,6 +3269,9 @@
             "BLK_per_g": 2.25,
             "TO_per_g": 0.75
           },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
           "value": 9.0,
           "type": "total"
         },
@@ -3069,6 +3309,9 @@
             "BLK_per_g": 2.6666666666666665,
             "TO_per_g": 1.3333333333333333
           },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
           "value": 8.0,
           "type": "total"
         }
@@ -3108,6 +3351,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 4.5
           },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
           "value": 18.0,
           "type": "total"
         },
@@ -3145,6 +3391,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 4.5
           },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
           "value": 18.0,
           "type": "total"
         },
@@ -3182,6 +3431,9 @@
             "BLK_per_g": 1.6666666666666667,
             "TO_per_g": 5.666666666666667
           },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
           "value": 17.0,
           "type": "total"
         }
@@ -3225,6 +3477,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 2.25
           },
+          "fantasy_teams": [
+            "SeGA Statums"
+          ],
           "value": 22.0,
           "type": "total"
         },
@@ -3262,6 +3517,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.75
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 20.0,
           "type": "total"
         },
@@ -3299,6 +3557,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 3.5
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 17.0,
           "type": "total"
         }
@@ -3338,6 +3599,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.75
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 144.0,
           "type": "total"
         },
@@ -3375,6 +3639,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 4.25
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 142.0,
           "type": "total"
         },
@@ -3412,6 +3679,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 3.5
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 133.0,
           "type": "total"
         }
@@ -3451,6 +3721,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 1.75
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 62.0,
           "type": "total"
         },
@@ -3488,6 +3761,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 0.5
           },
+          "fantasy_teams": [
+            "Why Not"
+          ],
           "value": 60.0,
           "type": "total"
         },
@@ -3525,6 +3801,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 1.0
           },
+          "fantasy_teams": [
+            "SeGA Statums"
+          ],
           "value": 59.0,
           "type": "total"
         }
@@ -3564,6 +3843,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 4.25
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 41.0,
           "type": "total"
         },
@@ -3601,6 +3883,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Foxy Fox"
+          ],
           "value": 39.0,
           "type": "total"
         },
@@ -3638,6 +3923,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 36.0,
           "type": "total"
         }
@@ -3677,6 +3965,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 2.5
           },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
           "value": 11.0,
           "type": "total"
         },
@@ -3714,6 +4005,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 1.5
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 10.0,
           "type": "total"
         },
@@ -3751,6 +4045,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 1.5
           },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
           "value": 10.0,
           "type": "total"
         }
@@ -3790,6 +4087,9 @@
             "BLK_per_g": 2.25,
             "TO_per_g": 1.5
           },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
           "value": 9.0,
           "type": "total"
         },
@@ -3827,6 +4127,9 @@
             "BLK_per_g": 2.25,
             "TO_per_g": 1.0
           },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
           "value": 9.0,
           "type": "total"
         },
@@ -3864,6 +4167,9 @@
             "BLK_per_g": 2.6666666666666665,
             "TO_per_g": 1.3333333333333333
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 8.0,
           "type": "total"
         }
@@ -3903,6 +4209,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 4.25
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 17.0,
           "type": "total"
         },
@@ -3940,6 +4249,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 4.0
           },
+          "fantasy_teams": [
+            "James of Thrones"
+          ],
           "value": 16.0,
           "type": "total"
         },
@@ -3977,6 +4289,9 @@
             "BLK_per_g": 1.25,
             "TO_per_g": 4.0
           },
+          "fantasy_teams": [
+            "Sektzia Shefel"
+          ],
           "value": 16.0,
           "type": "total"
         }
@@ -4020,6 +4335,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 3.25
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 19.0,
           "type": "total"
         },
@@ -4057,6 +4375,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Foxy Fox"
+          ],
           "value": 17.0,
           "type": "total"
         },
@@ -4094,6 +4415,9 @@
             "BLK_per_g": 0.3333333333333333,
             "TO_per_g": 2.6666666666666665
           },
+          "fantasy_teams": [
+            "Sektzia Shefel"
+          ],
           "value": 16.0,
           "type": "total"
         }
@@ -4133,6 +4457,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 3.25
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 145.0,
           "type": "total"
         },
@@ -4170,6 +4497,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 5.75
           },
+          "fantasy_teams": [
+            "Sektzia Shefel"
+          ],
           "value": 134.0,
           "type": "total"
         },
@@ -4207,6 +4537,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 2.0
           },
+          "fantasy_teams": [
+            "Why Not"
+          ],
           "value": 115.0,
           "type": "total"
         }
@@ -4246,6 +4579,9 @@
             "BLK_per_g": 2.5,
             "TO_per_g": 2.0
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 52.0,
           "type": "total"
         },
@@ -4283,6 +4619,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 2.5
           },
+          "fantasy_teams": [
+            "The Zionist"
+          ],
           "value": 47.0,
           "type": "total"
         },
@@ -4320,6 +4659,9 @@
             "BLK_per_g": 1.25,
             "TO_per_g": 0.75
           },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
           "value": 41.0,
           "type": "total"
         }
@@ -4359,6 +4701,9 @@
             "BLK_per_g": 0.3333333333333333,
             "TO_per_g": 4.0
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 36.0,
           "type": "total"
         },
@@ -4396,6 +4741,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Foxy Fox"
+          ],
           "value": 36.0,
           "type": "total"
         },
@@ -4433,6 +4781,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 3.75
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 31.0,
           "type": "total"
         }
@@ -4472,6 +4823,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 2.5
           },
+          "fantasy_teams": [
+            "The Zionist"
+          ],
           "value": 11.0,
           "type": "total"
         },
@@ -4509,6 +4863,9 @@
             "BLK_per_g": 1.75,
             "TO_per_g": 0.0
           },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
           "value": 11.0,
           "type": "total"
         },
@@ -4546,6 +4903,9 @@
             "BLK_per_g": 1.5,
             "TO_per_g": 1.0
           },
+          "fantasy_teams": [
+            "The Zionist"
+          ],
           "value": 9.0,
           "type": "total"
         }
@@ -4585,6 +4945,9 @@
             "BLK_per_g": 3.25,
             "TO_per_g": 1.0
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 13.0,
           "type": "total"
         },
@@ -4622,6 +4985,9 @@
             "BLK_per_g": 2.5,
             "TO_per_g": 2.0
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 10.0,
           "type": "total"
         },
@@ -4659,6 +5025,9 @@
             "BLK_per_g": 3.0,
             "TO_per_g": 0.0
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 9.0,
           "type": "total"
         }
@@ -4698,6 +5067,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 5.75
           },
+          "fantasy_teams": [
+            "Sektzia Shefel"
+          ],
           "value": 23.0,
           "type": "total"
         },
@@ -4735,6 +5107,9 @@
             "BLK_per_g": 0.3333333333333333,
             "TO_per_g": 5.666666666666667
           },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
           "value": 17.0,
           "type": "total"
         },
@@ -4772,6 +5147,9 @@
             "BLK_per_g": 0.0,
             "TO_per_g": 3.75
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 15.0,
           "type": "total"
         }
@@ -4815,6 +5193,9 @@
             "BLK_per_g": 1.25,
             "TO_per_g": 3.5
           },
+          "fantasy_teams": [
+            "Why Not"
+          ],
           "value": 20.0,
           "type": "total"
         },
@@ -4852,6 +5233,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 2.0
           },
+          "fantasy_teams": [
+            "Sektzia Shefel"
+          ],
           "value": 18.0,
           "type": "total"
         },
@@ -4889,6 +5273,9 @@
             "BLK_per_g": 0.6666666666666666,
             "TO_per_g": 2.3333333333333335
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 17.0,
           "type": "total"
         }
@@ -4928,6 +5315,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 3.5
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 133.0,
           "type": "total"
         },
@@ -4965,6 +5355,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 121.0,
           "type": "total"
         },
@@ -5002,6 +5395,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 2.0
           },
+          "fantasy_teams": [
+            "Sektzia Shefel"
+          ],
           "value": 119.0,
           "type": "total"
         }
@@ -5041,6 +5437,9 @@
             "BLK_per_g": 0.5,
             "TO_per_g": 2.25
           },
+          "fantasy_teams": [
+            "SeGA Statums"
+          ],
           "value": 49.0,
           "type": "total"
         },
@@ -5078,6 +5477,9 @@
             "BLK_per_g": 1.75,
             "TO_per_g": 1.5
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 46.0,
           "type": "total"
         },
@@ -5115,6 +5517,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 46.0,
           "type": "total"
         }
@@ -5154,6 +5559,9 @@
             "BLK_per_g": 1.0,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Kligers"
+          ],
           "value": 45.0,
           "type": "total"
         },
@@ -5191,6 +5599,9 @@
             "BLK_per_g": 1.25,
             "TO_per_g": 3.0
           },
+          "fantasy_teams": [
+            "Sektzia Shefel"
+          ],
           "value": 36.0,
           "type": "total"
         },
@@ -5228,6 +5639,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 4.25
           },
+          "fantasy_teams": [
+            "The Zionist"
+          ],
           "value": 35.0,
           "type": "total"
         }
@@ -5267,6 +5681,9 @@
             "BLK_per_g": 1.25,
             "TO_per_g": 2.25
           },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
           "value": 12.0,
           "type": "total"
         },
@@ -5304,6 +5721,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 3.25
           },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
           "value": 11.0,
           "type": "total"
         },
@@ -5341,6 +5761,9 @@
             "BLK_per_g": 0.75,
             "TO_per_g": 2.0
           },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
           "value": 11.0,
           "type": "total"
         }
@@ -5380,6 +5803,9 @@
             "BLK_per_g": 3.0,
             "TO_per_g": 1.0
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 12.0,
           "type": "total"
         },
@@ -5417,6 +5843,9 @@
             "BLK_per_g": 2.5,
             "TO_per_g": 1.25
           },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
           "value": 10.0,
           "type": "total"
         },
@@ -5454,6 +5883,9 @@
             "BLK_per_g": 3.3333333333333335,
             "TO_per_g": 0.3333333333333333
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 10.0,
           "type": "total"
         }
@@ -5493,6 +5925,9 @@
             "BLK_per_g": 0.75,
             "TO_per_g": 5.0
           },
+          "fantasy_teams": [
+            "Foxy Fox"
+          ],
           "value": 20.0,
           "type": "total"
         },
@@ -5530,6 +5965,9 @@
             "BLK_per_g": 0.25,
             "TO_per_g": 4.25
           },
+          "fantasy_teams": [
+            "The Zionist"
+          ],
           "value": 17.0,
           "type": "total"
         },
@@ -5567,6 +6005,9 @@
             "BLK_per_g": 2.0,
             "TO_per_g": 5.333333333333333
           },
+          "fantasy_teams": [
+            "Cleveland Rocks!"
+          ],
           "value": 16.0,
           "type": "total"
         }
