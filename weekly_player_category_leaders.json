@@ -3,7 +3,7 @@
     "league_id": "14034",
     "league_name": "Domination League",
     "season": "2025",
-    "generated_at": "2025-12-12T15:31:59.745880Z",
+    "generated_at": "2025-12-15T09:28:42.198363Z",
     "source": "yahoo_fantasy_api + daily aggregation"
   },
   "weeks": {
@@ -87,7 +87,7 @@
             "TO_per_g": 1.6666666666666667
           },
           "fantasy_teams": [
-            "The Zionist"
+            "Clowney Nico"
           ],
           "value": 15.0,
           "type": "total",
@@ -222,7 +222,7 @@
           "player_id": 6606,
           "name": "Austin Reaves",
           "team": null,
-          "position": "PG, SG, G, SF, F, Util",
+          "position": "PG, SG, G, SF, F, Util, IL+",
           "gp": 3,
           "totals": {
             "FGM": 0.0,
@@ -347,7 +347,7 @@
           "player_id": 10094,
           "name": "Victor Wembanyama",
           "team": null,
-          "position": "PF, F, C, Util, IL+",
+          "position": "PF, F, C, Util",
           "gp": 3,
           "totals": {
             "FGM": 0.0,
@@ -390,7 +390,7 @@
           "player_id": 4563,
           "name": "James Harden",
           "team": null,
-          "position": "PG, SG, G, Util",
+          "position": "PG, SG, G, Util, IL+",
           "gp": 3,
           "totals": {
             "FGM": 0.0,
@@ -472,7 +472,7 @@
           "player_id": 6606,
           "name": "Austin Reaves",
           "team": null,
-          "position": "PG, SG, G, SF, F, Util",
+          "position": "PG, SG, G, SF, F, Util, IL+",
           "gp": 3,
           "totals": {
             "FGM": 0.0,
@@ -597,7 +597,7 @@
           "player_id": 6163,
           "name": "Zion Williamson",
           "team": null,
-          "position": "SF, PF, F, C, Util, IL+",
+          "position": "SF, PF, F, C, Util",
           "gp": 2,
           "totals": {
             "FGM": 0.0,
@@ -640,7 +640,7 @@
           "player_id": 10094,
           "name": "Victor Wembanyama",
           "team": null,
-          "position": "PF, F, C, Util, IL+",
+          "position": "PF, F, C, Util",
           "gp": 3,
           "totals": {
             "FGM": 0.0,
@@ -806,7 +806,7 @@
           "player_id": 5473,
           "name": "Devin Booker",
           "team": null,
-          "position": "PG, SG, G, Util, IL+",
+          "position": "PG, SG, G, Util",
           "gp": 3,
           "totals": {
             "FGM": 0.0,
@@ -890,31 +890,31 @@
           "player_id": 10094,
           "name": "Victor Wembanyama",
           "team": null,
-          "rating": 22.323418277171932
+          "rating": 22.32290894127358
         },
         {
           "player_id": 6395,
           "name": "LaMelo Ball",
           "team": null,
-          "rating": 18.70108585520164
+          "rating": 18.700914495504115
         },
         {
           "player_id": 4612,
           "name": "Stephen Curry",
           "team": null,
-          "rating": 17.840840302795563
+          "rating": 17.84093932405868
         },
         {
           "player_id": 5185,
           "name": "Giannis Antetokounmpo",
           "team": null,
-          "rating": 16.490794394377247
+          "rating": 16.490104804505147
         },
         {
           "player_id": 6606,
           "name": "Austin Reaves",
           "team": null,
-          "rating": 15.07335245707836
+          "rating": 15.073226160874274
         }
       ]
     },
@@ -926,7 +926,7 @@
           "player_id": 5473,
           "name": "Devin Booker",
           "team": null,
-          "position": "PG, SG, G, Util, IL+",
+          "position": "PG, SG, G, Util",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -1133,7 +1133,7 @@
           "player_id": 5473,
           "name": "Devin Booker",
           "team": null,
-          "position": "PG, SG, G, Util, IL+",
+          "position": "PG, SG, G, Util",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -1217,7 +1217,7 @@
           "player_id": 5856,
           "name": "Isaiah Hartenstein",
           "team": null,
-          "position": "C, Util, IL+",
+          "position": "C, Util",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -1383,7 +1383,7 @@
           "player_id": 6606,
           "name": "Austin Reaves",
           "team": null,
-          "position": "PG, SG, G, SF, F, Util",
+          "position": "PG, SG, G, SF, F, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -1467,7 +1467,7 @@
           "player_id": 10107,
           "name": "Cason Wallace",
           "team": null,
-          "position": "PG, SG, G, SF, F, Util, IL+",
+          "position": "PG, SG, G, SF, F, Util",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -1633,7 +1633,7 @@
           "player_id": 10094,
           "name": "Victor Wembanyama",
           "team": null,
-          "position": "PF, F, C, Util, IL+",
+          "position": "PF, F, C, Util",
           "gp": 3,
           "totals": {
             "FGM": 0.0,
@@ -1717,7 +1717,7 @@
           "player_id": 6606,
           "name": "Austin Reaves",
           "team": null,
-          "position": "PG, SG, G, SF, F, Util",
+          "position": "PG, SG, G, SF, F, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -1758,7 +1758,7 @@
           "player_id": 5327,
           "name": "Jusuf Nurki\u0107",
           "team": null,
-          "position": "C, Util",
+          "position": "C, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -1801,31 +1801,31 @@
           "player_id": 6413,
           "name": "Tyrese Maxey",
           "team": null,
-          "rating": 18.94527866311666
+          "rating": 18.943005486850073
         },
         {
           "player_id": 5473,
           "name": "Devin Booker",
           "team": null,
-          "rating": 16.9313723447141
+          "rating": 16.929862181146245
         },
         {
           "player_id": 6514,
           "name": "Evan Mobley",
           "team": null,
-          "rating": 16.821703181695142
+          "rating": 16.820775510748355
         },
         {
           "player_id": 6606,
           "name": "Austin Reaves",
           "team": null,
-          "rating": 16.353963048927646
+          "rating": 16.352230882213806
         },
         {
           "player_id": 6548,
           "name": "Josh Giddey",
           "team": null,
-          "rating": 16.05871077533634
+          "rating": 16.05767291016013
         }
       ]
     },
@@ -2169,7 +2169,7 @@
           "player_id": 5856,
           "name": "Isaiah Hartenstein",
           "team": null,
-          "position": "C, Util, IL+",
+          "position": "C, Util",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -2253,7 +2253,7 @@
           "player_id": 6164,
           "name": "Ja Morant",
           "team": null,
-          "position": "PG, G, Util, IL+",
+          "position": "PG, G, Util",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -2587,7 +2587,7 @@
           "player_id": 6164,
           "name": "Ja Morant",
           "team": null,
-          "position": "PG, G, Util, IL+",
+          "position": "PG, G, Util",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -2724,13 +2724,13 @@
           "player_id": 4390,
           "name": "Russell Westbrook",
           "team": null,
-          "rating": 15.672477594294667
+          "rating": 15.67247759429467
         },
         {
           "player_id": 10294,
           "name": "Alex Sarr",
           "team": null,
-          "rating": 15.336695118308059
+          "rating": 15.33669511830806
         },
         {
           "player_id": 5471,
@@ -2789,7 +2789,7 @@
           "player_id": 4563,
           "name": "James Harden",
           "team": null,
-          "position": "PG, SG, G, Util",
+          "position": "PG, SG, G, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -2914,7 +2914,7 @@
           "player_id": 4563,
           "name": "James Harden",
           "team": null,
-          "position": "PG, SG, G, Util",
+          "position": "PG, SG, G, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -2986,7 +2986,7 @@
             "TO_per_g": 3.0
           },
           "fantasy_teams": [
-            "The Zionist"
+            "Clowney Nico"
           ],
           "value": 122.0,
           "type": "total",
@@ -3039,7 +3039,7 @@
           "player_id": 5327,
           "name": "Jusuf Nurki\u0107",
           "team": null,
-          "position": "C, Util",
+          "position": "C, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -3205,7 +3205,7 @@
           "player_id": 4563,
           "name": "James Harden",
           "team": null,
-          "position": "PG, SG, G, Util",
+          "position": "PG, SG, G, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -3279,7 +3279,7 @@
             "TO_per_g": 0.6666666666666666
           },
           "fantasy_teams": [
-            "The Zionist"
+            "Clowney Nico"
           ],
           "value": 13.0,
           "type": "total",
@@ -3320,7 +3320,7 @@
             "TO_per_g": 2.0
           },
           "fantasy_teams": [
-            "The Zionist"
+            "Clowney Nico"
           ],
           "value": 11.0,
           "type": "total",
@@ -3373,7 +3373,7 @@
           "player_id": 10094,
           "name": "Victor Wembanyama",
           "team": null,
-          "position": "PF, F, C, Util, IL+",
+          "position": "PF, F, C, Util",
           "gp": 3,
           "totals": {
             "FGM": 0.0,
@@ -3623,7 +3623,7 @@
           "player_id": 4563,
           "name": "James Harden",
           "team": null,
-          "rating": 20.61131698415482
+          "rating": 20.611316984154822
         },
         {
           "player_id": 6562,
@@ -3635,19 +3635,19 @@
           "player_id": 10094,
           "name": "Victor Wembanyama",
           "team": null,
-          "rating": 18.451475829305995
+          "rating": 18.451475829306
         },
         {
           "player_id": 6014,
           "name": "Luka Don\u010di\u0107",
           "team": null,
-          "rating": 18.213140802958726
+          "rating": 18.21314080295873
         },
         {
           "player_id": 5352,
           "name": "Nikola Joki\u0107",
           "team": null,
-          "rating": 15.224464317637896
+          "rating": 15.2244643176379
         }
       ]
     },
@@ -3741,7 +3741,7 @@
           "player_id": 4563,
           "name": "James Harden",
           "team": null,
-          "position": "PG, SG, G, Util",
+          "position": "PG, SG, G, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -3866,7 +3866,7 @@
           "player_id": 4563,
           "name": "James Harden",
           "team": null,
-          "position": "PG, SG, G, Util",
+          "position": "PG, SG, G, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -4241,7 +4241,7 @@
           "player_id": 10107,
           "name": "Cason Wallace",
           "team": null,
-          "position": "PG, SG, G, SF, F, Util, IL+",
+          "position": "PG, SG, G, SF, F, Util",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -4325,7 +4325,7 @@
           "player_id": 10285,
           "name": "Donovan Clingan",
           "team": null,
-          "position": "C, Util, IL+",
+          "position": "C, Util",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -4534,13 +4534,13 @@
           "player_id": 5352,
           "name": "Nikola Joki\u0107",
           "team": null,
-          "rating": 23.1211422763935
+          "rating": 23.121142276393503
         },
         {
           "player_id": 6413,
           "name": "Tyrese Maxey",
           "team": null,
-          "rating": 22.79952821431118
+          "rating": 22.799528214311184
         },
         {
           "player_id": 6562,
@@ -4552,13 +4552,13 @@
           "player_id": 4563,
           "name": "James Harden",
           "team": null,
-          "rating": 17.704234774830994
+          "rating": 17.704234774830997
         },
         {
           "player_id": 5826,
           "name": "Donovan Mitchell",
           "team": null,
-          "rating": 15.664276220045139
+          "rating": 15.664276220045142
         }
       ]
     },
@@ -4892,7 +4892,7 @@
             "TO_per_g": 2.5
           },
           "fantasy_teams": [
-            "The Zionist"
+            "Clowney Nico"
           ],
           "value": 47.0,
           "type": "total",
@@ -4902,7 +4902,7 @@
           "player_id": 5197,
           "name": "Rudy Gobert",
           "team": null,
-          "position": "C, Util",
+          "position": "C, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -5101,7 +5101,7 @@
             "TO_per_g": 2.5
           },
           "fantasy_teams": [
-            "The Zionist"
+            "Clowney Nico"
           ],
           "value": 11.0,
           "type": "total",
@@ -5183,7 +5183,7 @@
             "TO_per_g": 1.0
           },
           "fantasy_teams": [
-            "The Zionist"
+            "Clowney Nico"
           ],
           "value": 9.0,
           "type": "total",
@@ -5277,7 +5277,7 @@
           "player_id": 6038,
           "name": "Robert Williams III",
           "team": null,
-          "position": "C, Util, IL+",
+          "position": "C, Util",
           "gp": 3,
           "totals": {
             "FGM": 0.0,
@@ -5361,7 +5361,7 @@
           "player_id": 4563,
           "name": "James Harden",
           "team": null,
-          "position": "PG, SG, G, Util",
+          "position": "PG, SG, G, Util, IL+",
           "gp": 3,
           "totals": {
             "FGM": 0.0,
@@ -5445,25 +5445,25 @@
           "player_id": 6512,
           "name": "Cade Cunningham",
           "team": null,
-          "rating": 20.45976433639388
+          "rating": 20.459764336393878
         },
         {
           "player_id": 5843,
           "name": "Josh Hart",
           "team": null,
-          "rating": 18.903155884441254
+          "rating": 18.90315588444125
         },
         {
           "player_id": 6355,
           "name": "Anthony Edwards",
           "team": null,
-          "rating": 17.572606737701033
+          "rating": 17.57260673770103
         },
         {
           "player_id": 5602,
           "name": "Jaylen Brown",
           "team": null,
-          "rating": 17.4521952282643
+          "rating": 17.452195228264298
         },
         {
           "player_id": 6014,
@@ -5772,7 +5772,7 @@
           "player_id": 5007,
           "name": "Anthony Davis",
           "team": null,
-          "position": "PF, F, C, Util",
+          "position": "PF, F, C, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -5969,7 +5969,7 @@
             "TO_per_g": 4.25
           },
           "fantasy_teams": [
-            "The Zionist"
+            "Clowney Nico"
           ],
           "value": 35.0,
           "type": "total",
@@ -6063,7 +6063,7 @@
           "player_id": 6516,
           "name": "Jalen Suggs",
           "team": null,
-          "position": "PG, SG, G, Util",
+          "position": "PG, SG, G, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -6147,7 +6147,7 @@
           "player_id": 6514,
           "name": "Evan Mobley",
           "team": null,
-          "position": "PF, F, C, Util",
+          "position": "PF, F, C, Util, IL+",
           "gp": 4,
           "totals": {
             "FGM": 0.0,
@@ -6303,7 +6303,7 @@
             "TO_per_g": 4.25
           },
           "fantasy_teams": [
-            "The Zionist"
+            "Clowney Nico"
           ],
           "value": 17.0,
           "type": "total",
@@ -6356,31 +6356,31 @@
           "player_id": 5352,
           "name": "Nikola Joki\u0107",
           "team": null,
-          "rating": 19.426195422229195
+          "rating": 19.42611794088924
         },
         {
           "player_id": 6413,
           "name": "Tyrese Maxey",
           "team": null,
-          "rating": 17.878342600377366
+          "rating": 17.87832372635915
         },
         {
           "player_id": 6512,
           "name": "Cade Cunningham",
           "team": null,
-          "rating": 17.82178130278575
+          "rating": 17.8217477769371
         },
         {
           "player_id": 6218,
           "name": "Kevin Porter Jr.",
           "team": null,
-          "rating": 17.74918446558415
+          "rating": 17.749167684684572
         },
         {
           "player_id": 6401,
           "name": "Deni Avdija",
           "team": null,
-          "rating": 16.62934807511052
+          "rating": 16.629299897431434
         }
       ]
     }
