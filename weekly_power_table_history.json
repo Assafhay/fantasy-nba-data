@@ -51,7 +51,7 @@
   },
   {
     "Week":1,
-    "Team":"The Zionist",
+    "Team":"Clowney Nico",
     "Matchup_Wins":7,
     "Matchup_Losses":4,
     "Matchup_Draws":2,
@@ -151,7 +151,7 @@
   },
   {
     "Week":2,
-    "Team":"The Zionist",
+    "Team":"Clowney Nico",
     "Matchup_Wins":2,
     "Matchup_Losses":10,
     "Matchup_Draws":1,
@@ -311,7 +311,7 @@
   },
   {
     "Week":3,
-    "Team":"The Zionist",
+    "Team":"Clowney Nico",
     "Matchup_Wins":5,
     "Matchup_Losses":7,
     "Matchup_Draws":1,
@@ -531,7 +531,7 @@
   },
   {
     "Week":4,
-    "Team":"The Zionist",
+    "Team":"Clowney Nico",
     "Matchup_Wins":10,
     "Matchup_Losses":3,
     "Matchup_Draws":0,
@@ -671,7 +671,7 @@
   },
   {
     "Week":5,
-    "Team":"The Zionist",
+    "Team":"Clowney Nico",
     "Matchup_Wins":5,
     "Matchup_Losses":7,
     "Matchup_Draws":1,
@@ -821,7 +821,7 @@
   },
   {
     "Week":6,
-    "Team":"The Zionist",
+    "Team":"Clowney Nico",
     "Matchup_Wins":12,
     "Matchup_Losses":1,
     "Matchup_Draws":0,
@@ -941,7 +941,7 @@
   },
   {
     "Week":7,
-    "Team":"The Zionist",
+    "Team":"Clowney Nico",
     "Matchup_Wins":7,
     "Matchup_Losses":6,
     "Matchup_Draws":0,
@@ -978,5 +978,145 @@
     "Total_Cat_Wins":70,
     "Total_Cat_Losses":46,
     "Total_Cat_Draws":1
+  },
+  {
+    "Week":8,
+    "Team":"Maccabi Heat Haifa",
+    "Matchup_Wins":8,
+    "Matchup_Losses":3,
+    "Matchup_Draws":2,
+    "Total_Cat_Wins":73,
+    "Total_Cat_Losses":42,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":8,
+    "Team":"Dirk Dirk",
+    "Matchup_Wins":3,
+    "Matchup_Losses":9,
+    "Matchup_Draws":1,
+    "Total_Cat_Wins":44,
+    "Total_Cat_Losses":71,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":8,
+    "Team":"Baked Zucchini\u2019s",
+    "Matchup_Wins":9,
+    "Matchup_Losses":3,
+    "Matchup_Draws":1,
+    "Total_Cat_Wins":71,
+    "Total_Cat_Losses":42,
+    "Total_Cat_Draws":4
+  },
+  {
+    "Week":8,
+    "Team":"The Glove",
+    "Matchup_Wins":10,
+    "Matchup_Losses":1,
+    "Matchup_Draws":2,
+    "Total_Cat_Wins":70,
+    "Total_Cat_Losses":43,
+    "Total_Cat_Draws":4
+  },
+  {
+    "Week":8,
+    "Team":"Cleveland Rocks!",
+    "Matchup_Wins":12,
+    "Matchup_Losses":1,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":82,
+    "Total_Cat_Losses":34,
+    "Total_Cat_Draws":1
+  },
+  {
+    "Week":8,
+    "Team":"Why Not",
+    "Matchup_Wins":9,
+    "Matchup_Losses":3,
+    "Matchup_Draws":1,
+    "Total_Cat_Wins":66,
+    "Total_Cat_Losses":49,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":8,
+    "Team":"James of Thrones",
+    "Matchup_Wins":0,
+    "Matchup_Losses":12,
+    "Matchup_Draws":1,
+    "Total_Cat_Wins":28,
+    "Total_Cat_Losses":87,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":8,
+    "Team":"Kligers",
+    "Matchup_Wins":3,
+    "Matchup_Losses":9,
+    "Matchup_Draws":1,
+    "Total_Cat_Wins":47,
+    "Total_Cat_Losses":68,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":8,
+    "Team":"SeGA Statums",
+    "Matchup_Wins":6,
+    "Matchup_Losses":7,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":59,
+    "Total_Cat_Losses":55,
+    "Total_Cat_Draws":3
+  },
+  {
+    "Week":8,
+    "Team":"Foxy Fox",
+    "Matchup_Wins":5,
+    "Matchup_Losses":8,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":50,
+    "Total_Cat_Losses":65,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":8,
+    "Team":"Sektzia Shefel",
+    "Matchup_Wins":11,
+    "Matchup_Losses":2,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":74,
+    "Total_Cat_Losses":41,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":8,
+    "Team":"Clowney Nico",
+    "Matchup_Wins":7,
+    "Matchup_Losses":4,
+    "Matchup_Draws":2,
+    "Total_Cat_Wins":72,
+    "Total_Cat_Losses":43,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":8,
+    "Team":"Uncle Drew",
+    "Matchup_Wins":1,
+    "Matchup_Losses":11,
+    "Matchup_Draws":1,
+    "Total_Cat_Wins":32,
+    "Total_Cat_Losses":83,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":8,
+    "Team":"Werder bremen",
+    "Matchup_Wins":1,
+    "Matchup_Losses":12,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":36,
+    "Total_Cat_Losses":81,
+    "Total_Cat_Draws":0
   }
 ]
