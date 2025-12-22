@@ -3,7 +3,7 @@
     "league_id": "14034",
     "league_name": "Domination League",
     "season": "2025",
-    "generated_at": "2025-12-15T10:17:45.502140Z",
+    "generated_at": "2025-12-22T09:35:29.417999Z",
     "source": "yahoo_fantasy_api.matchups + stat_winners"
   },
   "weeks": {
