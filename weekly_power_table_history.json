@@ -1118,5 +1118,145 @@
     "Total_Cat_Wins":36,
     "Total_Cat_Losses":81,
     "Total_Cat_Draws":0
+  },
+  {
+    "Week":9,
+    "Team":"Maccabi Heat Haifa",
+    "Matchup_Wins":5,
+    "Matchup_Losses":8,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":51,
+    "Total_Cat_Losses":63,
+    "Total_Cat_Draws":3
+  },
+  {
+    "Week":9,
+    "Team":"Why Not",
+    "Matchup_Wins":11,
+    "Matchup_Losses":2,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":74,
+    "Total_Cat_Losses":42,
+    "Total_Cat_Draws":1
+  },
+  {
+    "Week":9,
+    "Team":"Baked Zucchini\u2019s",
+    "Matchup_Wins":4,
+    "Matchup_Losses":9,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":50,
+    "Total_Cat_Losses":65,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":9,
+    "Team":"Dirk Dirk",
+    "Matchup_Wins":6,
+    "Matchup_Losses":7,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":57,
+    "Total_Cat_Losses":57,
+    "Total_Cat_Draws":3
+  },
+  {
+    "Week":9,
+    "Team":"Cleveland Rocks!",
+    "Matchup_Wins":2,
+    "Matchup_Losses":11,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":35,
+    "Total_Cat_Losses":78,
+    "Total_Cat_Draws":4
+  },
+  {
+    "Week":9,
+    "Team":"Werder bremen",
+    "Matchup_Wins":2,
+    "Matchup_Losses":11,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":47,
+    "Total_Cat_Losses":70,
+    "Total_Cat_Draws":0
+  },
+  {
+    "Week":9,
+    "Team":"James of Thrones",
+    "Matchup_Wins":12,
+    "Matchup_Losses":1,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":77,
+    "Total_Cat_Losses":37,
+    "Total_Cat_Draws":3
+  },
+  {
+    "Week":9,
+    "Team":"SeGA Statums",
+    "Matchup_Wins":8,
+    "Matchup_Losses":4,
+    "Matchup_Draws":1,
+    "Total_Cat_Wins":67,
+    "Total_Cat_Losses":47,
+    "Total_Cat_Draws":3
+  },
+  {
+    "Week":9,
+    "Team":"Kligers",
+    "Matchup_Wins":4,
+    "Matchup_Losses":9,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":45,
+    "Total_Cat_Losses":69,
+    "Total_Cat_Draws":3
+  },
+  {
+    "Week":9,
+    "Team":"The Glove",
+    "Matchup_Wins":1,
+    "Matchup_Losses":12,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":33,
+    "Total_Cat_Losses":77,
+    "Total_Cat_Draws":7
+  },
+  {
+    "Week":9,
+    "Team":"Sektzia Shefel",
+    "Matchup_Wins":10,
+    "Matchup_Losses":3,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":73,
+    "Total_Cat_Losses":42,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":9,
+    "Team":"Uncle Drew",
+    "Matchup_Wins":11,
+    "Matchup_Losses":1,
+    "Matchup_Draws":1,
+    "Total_Cat_Wins":70,
+    "Total_Cat_Losses":44,
+    "Total_Cat_Draws":3
+  },
+  {
+    "Week":9,
+    "Team":"Clowney Nico",
+    "Matchup_Wins":9,
+    "Matchup_Losses":4,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":68,
+    "Total_Cat_Losses":44,
+    "Total_Cat_Draws":5
+  },
+  {
+    "Week":9,
+    "Team":"Foxy Fox",
+    "Matchup_Wins":5,
+    "Matchup_Losses":8,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":52,
+    "Total_Cat_Losses":64,
+    "Total_Cat_Draws":1
   }
 ]
