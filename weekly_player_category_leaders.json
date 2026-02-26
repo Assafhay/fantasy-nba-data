@@ -3,7 +3,7 @@
     "league_id": "14034",
     "league_name": "Domination League",
     "season": "2025",
-    "generated_at": "2026-02-09T08:43:44.219995Z",
+    "generated_at": "2026-02-26T20:02:07.772960Z",
     "source": "yahoo_fantasy_api + daily aggregation"
   },
   "weeks": {
@@ -14569,6 +14569,917 @@
           "name": "Victor Wembanyama",
           "team": null,
           "rating": 11.50620790432894
+        }
+      ]
+    },
+    "17": {
+      "FG%": [],
+      "FT%": [],
+      "3PTM": [
+        {
+          "player_id": 6395,
+          "name": "LaMelo Ball",
+          "team": null,
+          "position": "PG, SG, G, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 24.0,
+            "PTS": 110.0,
+            "REB": 25.0,
+            "AST": 30.0,
+            "ST": 3.0,
+            "BLK": 0.0,
+            "TO": 7.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 4.8,
+            "PTS_per_g": 22.0,
+            "REB_per_g": 5.0,
+            "AST_per_g": 6.0,
+            "ST_per_g": 0.6,
+            "BLK_per_g": 0.0,
+            "TO_per_g": 1.4
+          },
+          "fantasy_teams": [
+            "James of Thrones"
+          ],
+          "value": 24.0,
+          "type": "total",
+          "star_count": 1
+        },
+        {
+          "player_id": 10450,
+          "name": "Kon Knueppel",
+          "team": null,
+          "position": "SG, G, SF, F, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 24.0,
+            "PTS": 114.0,
+            "REB": 29.0,
+            "AST": 17.0,
+            "ST": 5.0,
+            "BLK": 2.0,
+            "TO": 11.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 4.8,
+            "PTS_per_g": 22.8,
+            "REB_per_g": 5.8,
+            "AST_per_g": 3.4,
+            "ST_per_g": 1.0,
+            "BLK_per_g": 0.4,
+            "TO_per_g": 2.2
+          },
+          "fantasy_teams": [
+            "SeGA Statums"
+          ],
+          "value": 24.0,
+          "type": "total",
+          "star_count": 2
+        },
+        {
+          "player_id": 6422,
+          "name": "Desmond Bane",
+          "team": null,
+          "position": "SG, G, SF, F, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 22.0,
+            "PTS": 143.0,
+            "REB": 18.0,
+            "AST": 12.0,
+            "ST": 8.0,
+            "BLK": 3.0,
+            "TO": 9.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 4.4,
+            "PTS_per_g": 28.6,
+            "REB_per_g": 3.6,
+            "AST_per_g": 2.4,
+            "ST_per_g": 1.6,
+            "BLK_per_g": 0.6,
+            "TO_per_g": 1.8
+          },
+          "fantasy_teams": [
+            "The Glove"
+          ],
+          "value": 22.0,
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "PTS": [
+        {
+          "player_id": 6413,
+          "name": "Tyrese Maxey",
+          "team": null,
+          "position": "PG, G, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 15.0,
+            "PTS": 156.0,
+            "REB": 12.0,
+            "AST": 24.0,
+            "ST": 10.0,
+            "BLK": 2.0,
+            "TO": 17.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 3.0,
+            "PTS_per_g": 31.2,
+            "REB_per_g": 2.4,
+            "AST_per_g": 4.8,
+            "ST_per_g": 2.0,
+            "BLK_per_g": 0.4,
+            "TO_per_g": 3.4
+          },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
+          "value": 156.0,
+          "type": "total",
+          "star_count": 3
+        },
+        {
+          "player_id": 6422,
+          "name": "Desmond Bane",
+          "team": null,
+          "position": "SG, G, SF, F, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 22.0,
+            "PTS": 143.0,
+            "REB": 18.0,
+            "AST": 12.0,
+            "ST": 8.0,
+            "BLK": 3.0,
+            "TO": 9.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 4.4,
+            "PTS_per_g": 28.6,
+            "REB_per_g": 3.6,
+            "AST_per_g": 2.4,
+            "ST_per_g": 1.6,
+            "BLK_per_g": 0.6,
+            "TO_per_g": 1.8
+          },
+          "fantasy_teams": [
+            "The Glove"
+          ],
+          "value": 143.0,
+          "type": "total",
+          "star_count": 0
+        },
+        {
+          "player_id": 4896,
+          "name": "Kawhi Leonard",
+          "team": null,
+          "position": "SF, PF, F, Util, IL+",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 10.0,
+            "PTS": 142.0,
+            "REB": 36.0,
+            "AST": 19.0,
+            "ST": 8.0,
+            "BLK": 2.0,
+            "TO": 15.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 2.0,
+            "PTS_per_g": 28.4,
+            "REB_per_g": 7.2,
+            "AST_per_g": 3.8,
+            "ST_per_g": 1.6,
+            "BLK_per_g": 0.4,
+            "TO_per_g": 3.0
+          },
+          "fantasy_teams": [
+            "Why Not"
+          ],
+          "value": 142.0,
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "REB": [
+        {
+          "player_id": 5352,
+          "name": "Nikola Joki\u0107",
+          "team": null,
+          "position": "C, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 6.0,
+            "PTS": 137.0,
+            "REB": 75.0,
+            "AST": 47.0,
+            "ST": 9.0,
+            "BLK": 3.0,
+            "TO": 29.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 1.2,
+            "PTS_per_g": 27.4,
+            "REB_per_g": 15.0,
+            "AST_per_g": 9.4,
+            "ST_per_g": 1.8,
+            "BLK_per_g": 0.6,
+            "TO_per_g": 5.8
+          },
+          "fantasy_teams": [
+            "Kligers"
+          ],
+          "value": 75.0,
+          "type": "total",
+          "star_count": 2
+        },
+        {
+          "player_id": 5835,
+          "name": "Jarrett Allen",
+          "team": null,
+          "position": "C, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 0.0,
+            "PTS": 95.0,
+            "REB": 59.0,
+            "AST": 7.0,
+            "ST": 2.0,
+            "BLK": 5.0,
+            "TO": 6.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 0.0,
+            "PTS_per_g": 19.0,
+            "REB_per_g": 11.8,
+            "AST_per_g": 1.4,
+            "ST_per_g": 0.4,
+            "BLK_per_g": 1.0,
+            "TO_per_g": 1.2
+          },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
+          "value": 59.0,
+          "type": "total",
+          "star_count": 0
+        },
+        {
+          "player_id": 10285,
+          "name": "Donovan Clingan",
+          "team": null,
+          "position": "C, Util, IL+",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 11.0,
+            "PTS": 84.0,
+            "REB": 56.0,
+            "AST": 16.0,
+            "ST": 2.0,
+            "BLK": 13.0,
+            "TO": 7.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 2.2,
+            "PTS_per_g": 16.8,
+            "REB_per_g": 11.2,
+            "AST_per_g": 3.2,
+            "ST_per_g": 0.4,
+            "BLK_per_g": 2.6,
+            "TO_per_g": 1.4
+          },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
+          "value": 56.0,
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "AST": [
+        {
+          "player_id": 5352,
+          "name": "Nikola Joki\u0107",
+          "team": null,
+          "position": "C, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 6.0,
+            "PTS": 137.0,
+            "REB": 75.0,
+            "AST": 47.0,
+            "ST": 9.0,
+            "BLK": 3.0,
+            "TO": 29.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 1.2,
+            "PTS_per_g": 27.4,
+            "REB_per_g": 15.0,
+            "AST_per_g": 9.4,
+            "ST_per_g": 1.8,
+            "BLK_per_g": 0.6,
+            "TO_per_g": 5.8
+          },
+          "fantasy_teams": [
+            "Kligers"
+          ],
+          "value": 47.0,
+          "type": "total",
+          "star_count": 6
+        },
+        {
+          "player_id": 4563,
+          "name": "James Harden",
+          "team": null,
+          "position": "PG, SG, G, Util, IL+",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 11.0,
+            "PTS": 89.0,
+            "REB": 28.0,
+            "AST": 44.0,
+            "ST": 5.0,
+            "BLK": 5.0,
+            "TO": 17.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 2.2,
+            "PTS_per_g": 17.8,
+            "REB_per_g": 5.6,
+            "AST_per_g": 8.8,
+            "ST_per_g": 1.0,
+            "BLK_per_g": 1.0,
+            "TO_per_g": 3.4
+          },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
+          "value": 44.0,
+          "type": "total",
+          "star_count": 0
+        },
+        {
+          "player_id": 6218,
+          "name": "Kevin Porter Jr.",
+          "team": null,
+          "position": "PG, SG, G, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 3.0,
+            "PTS": 104.0,
+            "REB": 21.0,
+            "AST": 42.0,
+            "ST": 9.0,
+            "BLK": 3.0,
+            "TO": 11.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 0.6,
+            "PTS_per_g": 20.8,
+            "REB_per_g": 4.2,
+            "AST_per_g": 8.4,
+            "ST_per_g": 1.8,
+            "BLK_per_g": 0.6,
+            "TO_per_g": 2.2
+          },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
+          "value": 42.0,
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "ST": [
+        {
+          "player_id": 5475,
+          "name": "Kelly Oubre Jr.",
+          "team": null,
+          "position": "SF, PF, F, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 10.0,
+            "PTS": 81.0,
+            "REB": 24.0,
+            "AST": 12.0,
+            "ST": 12.0,
+            "BLK": 4.0,
+            "TO": 9.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 2.0,
+            "PTS_per_g": 16.2,
+            "REB_per_g": 4.8,
+            "AST_per_g": 2.4,
+            "ST_per_g": 2.4,
+            "BLK_per_g": 0.8,
+            "TO_per_g": 1.8
+          },
+          "fantasy_teams": [
+            "Why Not"
+          ],
+          "value": 12.0,
+          "type": "total",
+          "star_count": 1
+        },
+        {
+          "player_id": 6613,
+          "name": "Jose Alvarado",
+          "team": null,
+          "position": "PG, G, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 11.0,
+            "PTS": 49.0,
+            "REB": 13.0,
+            "AST": 20.0,
+            "ST": 11.0,
+            "BLK": 0.0,
+            "TO": 5.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 2.2,
+            "PTS_per_g": 9.8,
+            "REB_per_g": 2.6,
+            "AST_per_g": 4.0,
+            "ST_per_g": 2.2,
+            "BLK_per_g": 0.0,
+            "TO_per_g": 1.0
+          },
+          "fantasy_teams": [
+            "SeGA Statums"
+          ],
+          "value": 11.0,
+          "type": "total",
+          "star_count": 0
+        },
+        {
+          "player_id": 6413,
+          "name": "Tyrese Maxey",
+          "team": null,
+          "position": "PG, G, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 15.0,
+            "PTS": 156.0,
+            "REB": 12.0,
+            "AST": 24.0,
+            "ST": 10.0,
+            "BLK": 2.0,
+            "TO": 17.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 3.0,
+            "PTS_per_g": 31.2,
+            "REB_per_g": 2.4,
+            "AST_per_g": 4.8,
+            "ST_per_g": 2.0,
+            "BLK_per_g": 0.4,
+            "TO_per_g": 3.4
+          },
+          "fantasy_teams": [
+            "Uncle Drew"
+          ],
+          "value": 10.0,
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "BLK": [
+        {
+          "player_id": 10285,
+          "name": "Donovan Clingan",
+          "team": null,
+          "position": "C, Util, IL+",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 11.0,
+            "PTS": 84.0,
+            "REB": 56.0,
+            "AST": 16.0,
+            "ST": 2.0,
+            "BLK": 13.0,
+            "TO": 7.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 2.2,
+            "PTS_per_g": 16.8,
+            "REB_per_g": 11.2,
+            "AST_per_g": 3.2,
+            "ST_per_g": 0.4,
+            "BLK_per_g": 2.6,
+            "TO_per_g": 1.4
+          },
+          "fantasy_teams": [
+            "Baked Zucchini\u2019s"
+          ],
+          "value": 13.0,
+          "type": "total",
+          "star_count": 2
+        },
+        {
+          "player_id": 10094,
+          "name": "Victor Wembanyama",
+          "team": null,
+          "position": "PF, F, C, Util",
+          "gp": 4,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 8.0,
+            "PTS": 111.0,
+            "REB": 47.0,
+            "AST": 16.0,
+            "ST": 5.0,
+            "BLK": 12.0,
+            "TO": 7.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 2.0,
+            "PTS_per_g": 27.75,
+            "REB_per_g": 11.75,
+            "AST_per_g": 4.0,
+            "ST_per_g": 1.25,
+            "BLK_per_g": 3.0,
+            "TO_per_g": 1.75
+          },
+          "fantasy_teams": [
+            "Dirk Dirk"
+          ],
+          "value": 12.0,
+          "type": "total",
+          "star_count": 0
+        },
+        {
+          "player_id": 10265,
+          "name": "Matas Buzelis",
+          "team": null,
+          "position": "SF, PF, F, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 11.0,
+            "PTS": 67.0,
+            "REB": 28.0,
+            "AST": 9.0,
+            "ST": 3.0,
+            "BLK": 12.0,
+            "TO": 16.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 2.2,
+            "PTS_per_g": 13.4,
+            "REB_per_g": 5.6,
+            "AST_per_g": 1.8,
+            "ST_per_g": 0.6,
+            "BLK_per_g": 2.4,
+            "TO_per_g": 3.2
+          },
+          "fantasy_teams": [
+            "Maccabi Heat Haifa"
+          ],
+          "value": 12.0,
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "TO": [
+        {
+          "player_id": 5352,
+          "name": "Nikola Joki\u0107",
+          "team": null,
+          "position": "C, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 6.0,
+            "PTS": 137.0,
+            "REB": 75.0,
+            "AST": 47.0,
+            "ST": 9.0,
+            "BLK": 3.0,
+            "TO": 29.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 1.2,
+            "PTS_per_g": 27.4,
+            "REB_per_g": 15.0,
+            "AST_per_g": 9.4,
+            "ST_per_g": 1.8,
+            "BLK_per_g": 0.6,
+            "TO_per_g": 5.8
+          },
+          "fantasy_teams": [
+            "Kligers"
+          ],
+          "value": 29.0,
+          "type": "total",
+          "star_count": 2
+        },
+        {
+          "player_id": 10455,
+          "name": "Nolan Traore",
+          "team": null,
+          "position": "PG, G, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 5.0,
+            "PTS": 69.0,
+            "REB": 8.0,
+            "AST": 34.0,
+            "ST": 8.0,
+            "BLK": 2.0,
+            "TO": 21.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 1.0,
+            "PTS_per_g": 13.8,
+            "REB_per_g": 1.6,
+            "AST_per_g": 6.8,
+            "ST_per_g": 1.6,
+            "BLK_per_g": 0.4,
+            "TO_per_g": 4.2
+          },
+          "fantasy_teams": [
+            "Werder bremen"
+          ],
+          "value": 21.0,
+          "type": "total",
+          "star_count": 0
+        },
+        {
+          "player_id": 4622,
+          "name": "Jrue Holiday",
+          "team": null,
+          "position": "PG, SG, G, Util",
+          "gp": 5,
+          "totals": {
+            "FGM": 0.0,
+            "FGA": 0.0,
+            "FTM": 0.0,
+            "FTA": 0.0,
+            "3PTM": 15.0,
+            "PTS": 92.0,
+            "REB": 28.0,
+            "AST": 28.0,
+            "ST": 3.0,
+            "BLK": 0.0,
+            "TO": 19.0
+          },
+          "fg_pct": null,
+          "ft_pct": null,
+          "per_game": {
+            "FGM_per_g": 0.0,
+            "FGA_per_g": 0.0,
+            "FTM_per_g": 0.0,
+            "FTA_per_g": 0.0,
+            "3PTM_per_g": 3.0,
+            "PTS_per_g": 18.4,
+            "REB_per_g": 5.6,
+            "AST_per_g": 5.6,
+            "ST_per_g": 0.6,
+            "BLK_per_g": 0.0,
+            "TO_per_g": 3.8
+          },
+          "fantasy_teams": [
+            "Foxy Fox"
+          ],
+          "value": 19.0,
+          "type": "total",
+          "star_count": 0
+        }
+      ],
+      "yahoo_rater_top5": [
+        {
+          "player_id": 6512,
+          "name": "Cade Cunningham",
+          "team": null,
+          "rating": 14.09955151490305
+        },
+        {
+          "player_id": 10094,
+          "name": "Victor Wembanyama",
+          "team": null,
+          "rating": 13.756158197039026
+        },
+        {
+          "player_id": 10285,
+          "name": "Donovan Clingan",
+          "team": null,
+          "rating": 13.652398644977552
+        },
+        {
+          "player_id": 5352,
+          "name": "Nikola Joki\u0107",
+          "team": null,
+          "rating": 12.213624802291154
+        },
+        {
+          "player_id": 6422,
+          "name": "Desmond Bane",
+          "team": null,
+          "rating": 11.281612380644997
         }
       ]
     }
