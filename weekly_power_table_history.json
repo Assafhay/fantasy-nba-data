@@ -2658,5 +2658,85 @@
     "Total_Cat_Wins":43,
     "Total_Cat_Losses":72,
     "Total_Cat_Draws":2
+  },
+  {
+    "Week":20,
+    "Team":"Maccabi Heat Haifa",
+    "Matchup_Wins":6,
+    "Matchup_Losses":1,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":35,
+    "Total_Cat_Losses":27,
+    "Total_Cat_Draws":1
+  },
+  {
+    "Week":20,
+    "Team":"Why Not",
+    "Matchup_Wins":7,
+    "Matchup_Losses":0,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":44,
+    "Total_Cat_Losses":18,
+    "Total_Cat_Draws":1
+  },
+  {
+    "Week":20,
+    "Team":"Baked Zucchini\u2019s",
+    "Matchup_Wins":4,
+    "Matchup_Losses":3,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":29,
+    "Total_Cat_Losses":33,
+    "Total_Cat_Draws":1
+  },
+  {
+    "Week":20,
+    "Team":"Kligers",
+    "Matchup_Wins":5,
+    "Matchup_Losses":2,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":35,
+    "Total_Cat_Losses":27,
+    "Total_Cat_Draws":1
+  },
+  {
+    "Week":20,
+    "Team":"Cleveland Rocks!",
+    "Matchup_Wins":3,
+    "Matchup_Losses":4,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":29,
+    "Total_Cat_Losses":33,
+    "Total_Cat_Draws":1
+  },
+  {
+    "Week":20,
+    "Team":"Sektzia Shefel",
+    "Matchup_Wins":1,
+    "Matchup_Losses":6,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":27,
+    "Total_Cat_Losses":36,
+    "Total_Cat_Draws":0
+  },
+  {
+    "Week":20,
+    "Team":"Dirk Dirk",
+    "Matchup_Wins":2,
+    "Matchup_Losses":5,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":27,
+    "Total_Cat_Losses":34,
+    "Total_Cat_Draws":2
+  },
+  {
+    "Week":20,
+    "Team":"Uncle Drew",
+    "Matchup_Wins":0,
+    "Matchup_Losses":7,
+    "Matchup_Draws":0,
+    "Total_Cat_Wins":22,
+    "Total_Cat_Losses":40,
+    "Total_Cat_Draws":1
   }
 ]
