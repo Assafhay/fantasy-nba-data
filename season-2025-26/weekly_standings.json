@@ -1,0 +1,5711 @@
+{
+  "meta": {
+    "league_id": "14034",
+    "league_name": "Domination League",
+    "season": "2025",
+    "generated_at": "2026-03-09T16:37:33.230335Z",
+    "source": "yahoo_fantasy_api.matchups + stat_winners"
+  },
+  "weeks": {
+    "1": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 7,
+          "losses": 2,
+          "ties": 0,
+          "pct": 0.7777777777777778,
+          "pct_str": ".778",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 6,
+          "losses": 2,
+          "ties": 1,
+          "pct": 0.75,
+          "pct_str": ".750",
+          "gb": 0.5
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 6,
+          "losses": 3,
+          "ties": 0,
+          "pct": 0.6666666666666666,
+          "pct_str": ".667",
+          "gb": 1.0
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 5,
+          "losses": 4,
+          "ties": 0,
+          "pct": 0.5555555555555556,
+          "pct_str": ".556",
+          "gb": 2.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 5,
+          "losses": 4,
+          "ties": 0,
+          "pct": 0.5555555555555556,
+          "pct_str": ".556",
+          "gb": 2.0
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 5,
+          "losses": 4,
+          "ties": 0,
+          "pct": 0.5555555555555556,
+          "pct_str": ".556",
+          "gb": 2.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 5,
+          "losses": 4,
+          "ties": 0,
+          "pct": 0.5555555555555556,
+          "pct_str": ".556",
+          "gb": 2.0
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 4,
+          "losses": 5,
+          "ties": 0,
+          "pct": 0.4444444444444444,
+          "pct_str": ".444",
+          "gb": 3.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 4,
+          "losses": 5,
+          "ties": 0,
+          "pct": 0.4444444444444444,
+          "pct_str": ".444",
+          "gb": 3.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 4,
+          "losses": 5,
+          "ties": 0,
+          "pct": 0.4444444444444444,
+          "pct_str": ".444",
+          "gb": 3.0
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 4,
+          "losses": 5,
+          "ties": 0,
+          "pct": 0.4444444444444444,
+          "pct_str": ".444",
+          "gb": 3.0
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 3,
+          "losses": 6,
+          "ties": 0,
+          "pct": 0.3333333333333333,
+          "pct_str": ".333",
+          "gb": 4.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 2,
+          "losses": 6,
+          "ties": 1,
+          "pct": 0.25,
+          "pct_str": ".250",
+          "gb": 4.5
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 2,
+          "losses": 7,
+          "ties": 0,
+          "pct": 0.2222222222222222,
+          "pct_str": ".222",
+          "gb": 5.0
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 1,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 1,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 1,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 1,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 1,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 1,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 1,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 0,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 0.0,
+          "pct": 0.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 0,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 0.0,
+          "pct": 0.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 0,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 0.0,
+          "pct": 0.0
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 0,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 0.0,
+          "pct": 0.0
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 0,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 0.0,
+          "pct": 0.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 0,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 0.0,
+          "pct": 0.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 0,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 0.0,
+          "pct": 0.0
+        }
+      ]
+    },
+    "2": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 15,
+          "losses": 2,
+          "ties": 1,
+          "pct": 0.8823529411764706,
+          "pct_str": ".882",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 13,
+          "losses": 5,
+          "ties": 0,
+          "pct": 0.7222222222222222,
+          "pct_str": ".722",
+          "gb": 2.5
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 12,
+          "losses": 6,
+          "ties": 0,
+          "pct": 0.6666666666666666,
+          "pct_str": ".667",
+          "gb": 3.5
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 11,
+          "losses": 7,
+          "ties": 0,
+          "pct": 0.6111111111111112,
+          "pct_str": ".611",
+          "gb": 4.5
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 10,
+          "losses": 8,
+          "ties": 0,
+          "pct": 0.5555555555555556,
+          "pct_str": ".556",
+          "gb": 5.5
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 8,
+          "losses": 9,
+          "ties": 1,
+          "pct": 0.47058823529411764,
+          "pct_str": ".471",
+          "gb": 7.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 8,
+          "losses": 9,
+          "ties": 1,
+          "pct": 0.47058823529411764,
+          "pct_str": ".471",
+          "gb": 7.0
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 8,
+          "losses": 10,
+          "ties": 0,
+          "pct": 0.4444444444444444,
+          "pct_str": ".444",
+          "gb": 7.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 8,
+          "losses": 10,
+          "ties": 0,
+          "pct": 0.4444444444444444,
+          "pct_str": ".444",
+          "gb": 7.5
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 8,
+          "losses": 10,
+          "ties": 0,
+          "pct": 0.4444444444444444,
+          "pct_str": ".444",
+          "gb": 7.5
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 7,
+          "losses": 11,
+          "ties": 0,
+          "pct": 0.3888888888888889,
+          "pct_str": ".389",
+          "gb": 8.5
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 6,
+          "losses": 11,
+          "ties": 1,
+          "pct": 0.35294117647058826,
+          "pct_str": ".353",
+          "gb": 9.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 5,
+          "losses": 12,
+          "ties": 1,
+          "pct": 0.29411764705882354,
+          "pct_str": ".294",
+          "gb": 10.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 4,
+          "losses": 13,
+          "ties": 1,
+          "pct": 0.23529411764705882,
+          "pct_str": ".235",
+          "gb": 11.0
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 2,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 2,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 2,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 1,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 1,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 1,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 1,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 1,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 1,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 1,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 0,
+          "losses": 1,
+          "ties": 1.0,
+          "points": 0.5,
+          "pct": 0.25
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 0,
+          "losses": 1,
+          "ties": 1.0,
+          "points": 0.5,
+          "pct": 0.25
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 0,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 0.0,
+          "pct": 0.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 0,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 0.0,
+          "pct": 0.0
+        }
+      ]
+    },
+    "3": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 20,
+          "losses": 5,
+          "ties": 2,
+          "pct": 0.8,
+          "pct_str": ".800",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 19,
+          "losses": 8,
+          "ties": 0,
+          "pct": 0.7037037037037037,
+          "pct_str": ".704",
+          "gb": 2.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 17,
+          "losses": 9,
+          "ties": 1,
+          "pct": 0.6538461538461539,
+          "pct_str": ".654",
+          "gb": 3.5
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 15,
+          "losses": 12,
+          "ties": 0,
+          "pct": 0.5555555555555556,
+          "pct_str": ".556",
+          "gb": 6.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 14,
+          "losses": 12,
+          "ties": 1,
+          "pct": 0.5384615384615384,
+          "pct_str": ".538",
+          "gb": 6.5
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 14,
+          "losses": 13,
+          "ties": 0,
+          "pct": 0.5185185185185185,
+          "pct_str": ".519",
+          "gb": 7.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 14,
+          "losses": 13,
+          "ties": 0,
+          "pct": 0.5185185185185185,
+          "pct_str": ".519",
+          "gb": 7.0
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 13,
+          "losses": 14,
+          "ties": 0,
+          "pct": 0.48148148148148145,
+          "pct_str": ".481",
+          "gb": 8.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 12,
+          "losses": 14,
+          "ties": 1,
+          "pct": 0.46153846153846156,
+          "pct_str": ".462",
+          "gb": 8.5
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 12,
+          "losses": 14,
+          "ties": 1,
+          "pct": 0.46153846153846156,
+          "pct_str": ".462",
+          "gb": 8.5
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 10,
+          "losses": 16,
+          "ties": 1,
+          "pct": 0.38461538461538464,
+          "pct_str": ".385",
+          "gb": 10.5
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 10,
+          "losses": 16,
+          "ties": 1,
+          "pct": 0.38461538461538464,
+          "pct_str": ".385",
+          "gb": 10.5
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 8,
+          "losses": 18,
+          "ties": 1,
+          "pct": 0.3076923076923077,
+          "pct_str": ".308",
+          "gb": 12.5
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 6,
+          "losses": 20,
+          "ties": 1,
+          "pct": 0.23076923076923078,
+          "pct_str": ".231",
+          "gb": 14.5
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 3,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 3,
+          "losses": 0,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 1.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 2,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.6666666666666666
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 2,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.6666666666666666
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 2,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.6666666666666666
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 2,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.6666666666666666
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 1,
+          "losses": 1,
+          "ties": 1.0,
+          "points": 1.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 1,
+          "losses": 1,
+          "ties": 1.0,
+          "points": 1.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 1,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.3333333333333333
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 1,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.3333333333333333
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 1,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.3333333333333333
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 0,
+          "losses": 2,
+          "ties": 1.0,
+          "points": 0.5,
+          "pct": 0.16666666666666666
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 0,
+          "losses": 2,
+          "ties": 1.0,
+          "points": 0.5,
+          "pct": 0.16666666666666666
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 0,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 0.0,
+          "pct": 0.0
+        }
+      ]
+    },
+    "4": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 24,
+          "losses": 10,
+          "ties": 2,
+          "pct": 0.7058823529411765,
+          "pct_str": ".706",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 22,
+          "losses": 14,
+          "ties": 0,
+          "pct": 0.6111111111111112,
+          "pct_str": ".611",
+          "gb": 3.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 21,
+          "losses": 15,
+          "ties": 0,
+          "pct": 0.5833333333333334,
+          "pct_str": ".583",
+          "gb": 4.0
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 19,
+          "losses": 16,
+          "ties": 1,
+          "pct": 0.5428571428571428,
+          "pct_str": ".543",
+          "gb": 5.5
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 19,
+          "losses": 17,
+          "ties": 0,
+          "pct": 0.5277777777777778,
+          "pct_str": ".528",
+          "gb": 6.0
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 18,
+          "losses": 17,
+          "ties": 1,
+          "pct": 0.5142857142857142,
+          "pct_str": ".514",
+          "gb": 6.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 18,
+          "losses": 17,
+          "ties": 1,
+          "pct": 0.5142857142857142,
+          "pct_str": ".514",
+          "gb": 6.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 17,
+          "losses": 19,
+          "ties": 0,
+          "pct": 0.4722222222222222,
+          "pct_str": ".472",
+          "gb": 8.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 16,
+          "losses": 19,
+          "ties": 1,
+          "pct": 0.45714285714285713,
+          "pct_str": ".457",
+          "gb": 8.5
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 16,
+          "losses": 20,
+          "ties": 0,
+          "pct": 0.4444444444444444,
+          "pct_str": ".444",
+          "gb": 9.0
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 15,
+          "losses": 20,
+          "ties": 1,
+          "pct": 0.42857142857142855,
+          "pct_str": ".429",
+          "gb": 9.5
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 15,
+          "losses": 20,
+          "ties": 1,
+          "pct": 0.42857142857142855,
+          "pct_str": ".429",
+          "gb": 9.5
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 14,
+          "losses": 21,
+          "ties": 1,
+          "pct": 0.4,
+          "pct_str": ".400",
+          "gb": 10.5
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 13,
+          "losses": 22,
+          "ties": 1,
+          "pct": 0.37142857142857144,
+          "pct_str": ".371",
+          "gb": 11.5
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 3,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.75
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 3,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.75
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 3,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.75
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 3,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.75
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 2,
+          "losses": 1,
+          "ties": 1.0,
+          "points": 2.5,
+          "pct": 0.625
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 2,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 2,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 2,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 2,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 1,
+          "losses": 2,
+          "ties": 1.0,
+          "points": 1.5,
+          "pct": 0.375
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 1,
+          "losses": 2,
+          "ties": 1.0,
+          "points": 1.5,
+          "pct": 0.375
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 1,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.25
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 1,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.25
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 0,
+          "losses": 3,
+          "ties": 1.0,
+          "points": 0.5,
+          "pct": 0.125
+        }
+      ]
+    },
+    "5": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 27,
+          "losses": 16,
+          "ties": 2,
+          "pct": 0.627906976744186,
+          "pct_str": ".628",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 27,
+          "losses": 18,
+          "ties": 0,
+          "pct": 0.6,
+          "pct_str": ".600",
+          "gb": 1.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 26,
+          "losses": 18,
+          "ties": 1,
+          "pct": 0.5909090909090909,
+          "pct_str": ".591",
+          "gb": 1.5
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 26,
+          "losses": 19,
+          "ties": 0,
+          "pct": 0.5777777777777777,
+          "pct_str": ".578",
+          "gb": 2.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 24,
+          "losses": 20,
+          "ties": 1,
+          "pct": 0.5454545454545454,
+          "pct_str": ".545",
+          "gb": 3.5
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 23,
+          "losses": 21,
+          "ties": 1,
+          "pct": 0.5227272727272727,
+          "pct_str": ".523",
+          "gb": 4.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 22,
+          "losses": 21,
+          "ties": 2,
+          "pct": 0.5116279069767442,
+          "pct_str": ".512",
+          "gb": 5.0
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 20,
+          "losses": 23,
+          "ties": 2,
+          "pct": 0.46511627906976744,
+          "pct_str": ".465",
+          "gb": 7.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 20,
+          "losses": 25,
+          "ties": 0,
+          "pct": 0.4444444444444444,
+          "pct_str": ".444",
+          "gb": 8.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 20,
+          "losses": 25,
+          "ties": 0,
+          "pct": 0.4444444444444444,
+          "pct_str": ".444",
+          "gb": 8.0
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 19,
+          "losses": 25,
+          "ties": 1,
+          "pct": 0.4318181818181818,
+          "pct_str": ".432",
+          "gb": 8.5
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 19,
+          "losses": 25,
+          "ties": 1,
+          "pct": 0.4318181818181818,
+          "pct_str": ".432",
+          "gb": 8.5
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 18,
+          "losses": 25,
+          "ties": 2,
+          "pct": 0.4186046511627907,
+          "pct_str": ".419",
+          "gb": 9.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 17,
+          "losses": 27,
+          "ties": 1,
+          "pct": 0.38636363636363635,
+          "pct_str": ".386",
+          "gb": 10.5
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 4,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.8
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 4,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.8
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 3,
+          "losses": 1,
+          "ties": 1.0,
+          "points": 3.5,
+          "pct": 0.7
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 3,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.6
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 3,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.6
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 3,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.6
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 2,
+          "losses": 2,
+          "ties": 1.0,
+          "points": 2.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 2,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.4
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 2,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.4
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 2,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.4
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 1,
+          "losses": 2,
+          "ties": 2.0,
+          "points": 2.0,
+          "pct": 0.4
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 1,
+          "losses": 3,
+          "ties": 1.0,
+          "points": 1.5,
+          "pct": 0.3
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 1,
+          "losses": 3,
+          "ties": 1.0,
+          "points": 1.5,
+          "pct": 0.3
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 1,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.2
+        }
+      ]
+    },
+    "6": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 33,
+          "losses": 21,
+          "ties": 0,
+          "pct": 0.6111111111111112,
+          "pct_str": ".611",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 32,
+          "losses": 21,
+          "ties": 1,
+          "pct": 0.6037735849056604,
+          "pct_str": ".604",
+          "gb": 0.5
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 31,
+          "losses": 21,
+          "ties": 2,
+          "pct": 0.5961538461538461,
+          "pct_str": ".596",
+          "gb": 1.0
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 30,
+          "losses": 22,
+          "ties": 2,
+          "pct": 0.5769230769230769,
+          "pct_str": ".577",
+          "gb": 2.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 29,
+          "losses": 24,
+          "ties": 1,
+          "pct": 0.5471698113207547,
+          "pct_str": ".547",
+          "gb": 3.5
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 28,
+          "losses": 24,
+          "ties": 2,
+          "pct": 0.5384615384615384,
+          "pct_str": ".538",
+          "gb": 4.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 27,
+          "losses": 26,
+          "ties": 1,
+          "pct": 0.5094339622641509,
+          "pct_str": ".509",
+          "gb": 5.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 27,
+          "losses": 27,
+          "ties": 0,
+          "pct": 0.5,
+          "pct_str": ".500",
+          "gb": 6.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 26,
+          "losses": 26,
+          "ties": 2,
+          "pct": 0.5,
+          "pct_str": ".500",
+          "gb": 6.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 25,
+          "losses": 28,
+          "ties": 1,
+          "pct": 0.4716981132075472,
+          "pct_str": ".472",
+          "gb": 7.5
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 23,
+          "losses": 31,
+          "ties": 0,
+          "pct": 0.42592592592592593,
+          "pct_str": ".426",
+          "gb": 10.0
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 22,
+          "losses": 31,
+          "ties": 1,
+          "pct": 0.41509433962264153,
+          "pct_str": ".415",
+          "gb": 10.5
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 21,
+          "losses": 33,
+          "ties": 0,
+          "pct": 0.3888888888888889,
+          "pct_str": ".389",
+          "gb": 12.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 17,
+          "losses": 36,
+          "ties": 1,
+          "pct": 0.32075471698113206,
+          "pct_str": ".321",
+          "gb": 15.5
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 5,
+          "losses": 1,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.8333333333333334
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 4,
+          "losses": 1,
+          "ties": 1.0,
+          "points": 4.5,
+          "pct": 0.75
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 4,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.6666666666666666
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 4,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.6666666666666666
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 3,
+          "losses": 2,
+          "ties": 1.0,
+          "points": 3.5,
+          "pct": 0.5833333333333334
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 3,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 3,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 3,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 3,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 2,
+          "losses": 2,
+          "ties": 2.0,
+          "points": 3.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 2,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.3333333333333333
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 1,
+          "losses": 4,
+          "ties": 1.0,
+          "points": 1.5,
+          "pct": 0.25
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 1,
+          "losses": 4,
+          "ties": 1.0,
+          "points": 1.5,
+          "pct": 0.25
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 1,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 1.0,
+          "pct": 0.16666666666666666
+        }
+      ]
+    },
+    "7": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 37,
+          "losses": 24,
+          "ties": 2,
+          "pct": 0.6065573770491803,
+          "pct_str": ".607",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 36,
+          "losses": 26,
+          "ties": 1,
+          "pct": 0.5806451612903226,
+          "pct_str": ".581",
+          "gb": 1.5
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 35,
+          "losses": 26,
+          "ties": 2,
+          "pct": 0.5737704918032787,
+          "pct_str": ".574",
+          "gb": 2.0
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 35,
+          "losses": 26,
+          "ties": 2,
+          "pct": 0.5737704918032787,
+          "pct_str": ".574",
+          "gb": 2.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 34,
+          "losses": 28,
+          "ties": 1,
+          "pct": 0.5483870967741935,
+          "pct_str": ".548",
+          "gb": 3.5
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 33,
+          "losses": 29,
+          "ties": 1,
+          "pct": 0.532258064516129,
+          "pct_str": ".532",
+          "gb": 4.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 33,
+          "losses": 30,
+          "ties": 0,
+          "pct": 0.5238095238095238,
+          "pct_str": ".524",
+          "gb": 5.0
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 32,
+          "losses": 31,
+          "ties": 0,
+          "pct": 0.5079365079365079,
+          "pct_str": ".508",
+          "gb": 6.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 30,
+          "losses": 31,
+          "ties": 2,
+          "pct": 0.4918032786885246,
+          "pct_str": ".492",
+          "gb": 7.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 28,
+          "losses": 33,
+          "ties": 2,
+          "pct": 0.45901639344262296,
+          "pct_str": ".459",
+          "gb": 9.0
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 28,
+          "losses": 34,
+          "ties": 1,
+          "pct": 0.45161290322580644,
+          "pct_str": ".452",
+          "gb": 9.5
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 27,
+          "losses": 35,
+          "ties": 1,
+          "pct": 0.43548387096774194,
+          "pct_str": ".435",
+          "gb": 10.5
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 25,
+          "losses": 38,
+          "ties": 0,
+          "pct": 0.3968253968253968,
+          "pct_str": ".397",
+          "gb": 13.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 20,
+          "losses": 42,
+          "ties": 1,
+          "pct": 0.3225806451612903,
+          "pct_str": ".323",
+          "gb": 17.5
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 5,
+          "losses": 1,
+          "ties": 1.0,
+          "points": 5.5,
+          "pct": 0.7857142857142857
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 5,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.7142857142857143
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 5,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.7142857142857143
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 4,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.5714285714285714
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 4,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.5714285714285714
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 4,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.5714285714285714
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 4,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.5714285714285714
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 3,
+          "losses": 3,
+          "ties": 1.0,
+          "points": 3.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 3,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.42857142857142855
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 2,
+          "losses": 3,
+          "ties": 2.0,
+          "points": 3.0,
+          "pct": 0.42857142857142855
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 2,
+          "losses": 4,
+          "ties": 1.0,
+          "points": 2.5,
+          "pct": 0.35714285714285715
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 2,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.2857142857142857
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 2,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.2857142857142857
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 1,
+          "losses": 5,
+          "ties": 1.0,
+          "points": 1.5,
+          "pct": 0.21428571428571427
+        }
+      ]
+    },
+    "8": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 43,
+          "losses": 27,
+          "ties": 2,
+          "pct": 0.6142857142857143,
+          "pct_str": ".614",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 43,
+          "losses": 27,
+          "ties": 2,
+          "pct": 0.6142857142857143,
+          "pct_str": ".614",
+          "gb": 0.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 39,
+          "losses": 32,
+          "ties": 1,
+          "pct": 0.5492957746478874,
+          "pct_str": ".549",
+          "gb": 4.5
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 38,
+          "losses": 32,
+          "ties": 2,
+          "pct": 0.5428571428571428,
+          "pct_str": ".543",
+          "gb": 5.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 38,
+          "losses": 33,
+          "ties": 1,
+          "pct": 0.5352112676056338,
+          "pct_str": ".535",
+          "gb": 5.5
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 38,
+          "losses": 34,
+          "ties": 0,
+          "pct": 0.5277777777777778,
+          "pct_str": ".528",
+          "gb": 6.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 37,
+          "losses": 34,
+          "ties": 1,
+          "pct": 0.5211267605633803,
+          "pct_str": ".521",
+          "gb": 6.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 37,
+          "losses": 35,
+          "ties": 0,
+          "pct": 0.5138888888888888,
+          "pct_str": ".514",
+          "gb": 7.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 34,
+          "losses": 36,
+          "ties": 2,
+          "pct": 0.4857142857142857,
+          "pct_str": ".486",
+          "gb": 9.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 34,
+          "losses": 37,
+          "ties": 1,
+          "pct": 0.4788732394366197,
+          "pct_str": ".479",
+          "gb": 9.5
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 32,
+          "losses": 39,
+          "ties": 1,
+          "pct": 0.4507042253521127,
+          "pct_str": ".451",
+          "gb": 11.5
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 31,
+          "losses": 39,
+          "ties": 2,
+          "pct": 0.44285714285714284,
+          "pct_str": ".443",
+          "gb": 12.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 29,
+          "losses": 43,
+          "ties": 0,
+          "pct": 0.4027777777777778,
+          "pct_str": ".403",
+          "gb": 15.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 23,
+          "losses": 48,
+          "ties": 1,
+          "pct": 0.323943661971831,
+          "pct_str": ".324",
+          "gb": 20.5
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 6,
+          "losses": 1,
+          "ties": 1.0,
+          "points": 6.5,
+          "pct": 0.8125
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 6,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 6.0,
+          "pct": 0.75
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 5,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.625
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 5,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.625
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 5,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.625
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 4,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 4,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 3,
+          "losses": 3,
+          "ties": 2.0,
+          "points": 4.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 3,
+          "losses": 4,
+          "ties": 1.0,
+          "points": 3.5,
+          "pct": 0.4375
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 3,
+          "losses": 4,
+          "ties": 1.0,
+          "points": 3.5,
+          "pct": 0.4375
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 3,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.375
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 3,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.375
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 2,
+          "losses": 6,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.25
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 1,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 1.5,
+          "pct": 0.1875
+        }
+      ]
+    },
+    "9": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 48,
+          "losses": 31,
+          "ties": 2,
+          "pct": 0.6075949367088608,
+          "pct_str": ".608",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 45,
+          "losses": 34,
+          "ties": 2,
+          "pct": 0.569620253164557,
+          "pct_str": ".570",
+          "gb": 3.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 45,
+          "losses": 34,
+          "ties": 2,
+          "pct": 0.569620253164557,
+          "pct_str": ".570",
+          "gb": 3.0
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 44,
+          "losses": 36,
+          "ties": 1,
+          "pct": 0.55,
+          "pct_str": ".550",
+          "gb": 4.5
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 42,
+          "losses": 37,
+          "ties": 2,
+          "pct": 0.5316455696202531,
+          "pct_str": ".532",
+          "gb": 6.0
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 43,
+          "losses": 38,
+          "ties": 0,
+          "pct": 0.5308641975308642,
+          "pct_str": ".531",
+          "gb": 6.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 42,
+          "losses": 38,
+          "ties": 1,
+          "pct": 0.525,
+          "pct_str": ".525",
+          "gb": 6.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 40,
+          "losses": 39,
+          "ties": 2,
+          "pct": 0.5063291139240507,
+          "pct_str": ".506",
+          "gb": 8.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 40,
+          "losses": 40,
+          "ties": 1,
+          "pct": 0.5,
+          "pct_str": ".500",
+          "gb": 8.5
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 36,
+          "losses": 44,
+          "ties": 1,
+          "pct": 0.45,
+          "pct_str": ".450",
+          "gb": 12.5
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 36,
+          "losses": 44,
+          "ties": 1,
+          "pct": 0.45,
+          "pct_str": ".450",
+          "gb": 12.5
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 34,
+          "losses": 45,
+          "ties": 2,
+          "pct": 0.43037974683544306,
+          "pct_str": ".430",
+          "gb": 14.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 33,
+          "losses": 48,
+          "ties": 0,
+          "pct": 0.4074074074074074,
+          "pct_str": ".407",
+          "gb": 16.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 30,
+          "losses": 50,
+          "ties": 1,
+          "pct": 0.375,
+          "pct_str": ".375",
+          "gb": 18.5
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 7,
+          "losses": 1,
+          "ties": 1.0,
+          "points": 7.5,
+          "pct": 0.8333333333333334
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 7,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.7777777777777778
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 6,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 6.0,
+          "pct": 0.6666666666666666
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 5,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.5555555555555556
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 5,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.5555555555555556
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 5,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.5555555555555556
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 4,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.4444444444444444
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 4,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.4444444444444444
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 4,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.4444444444444444
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 3,
+          "losses": 4,
+          "ties": 2.0,
+          "points": 4.0,
+          "pct": 0.4444444444444444
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 3,
+          "losses": 5,
+          "ties": 1.0,
+          "points": 3.5,
+          "pct": 0.3888888888888889
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 3,
+          "losses": 5,
+          "ties": 1.0,
+          "points": 3.5,
+          "pct": 0.3888888888888889
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 2,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 2.5,
+          "pct": 0.2777777777777778
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 2,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.2222222222222222
+        }
+      ]
+    },
+    "10": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 55,
+          "losses": 33,
+          "ties": 2,
+          "pct": 0.625,
+          "pct_str": ".625",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 50,
+          "losses": 38,
+          "ties": 2,
+          "pct": 0.5681818181818182,
+          "pct_str": ".568",
+          "gb": 5.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 49,
+          "losses": 40,
+          "ties": 1,
+          "pct": 0.550561797752809,
+          "pct_str": ".551",
+          "gb": 6.5
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 48,
+          "losses": 41,
+          "ties": 1,
+          "pct": 0.5393258426966292,
+          "pct_str": ".539",
+          "gb": 7.5
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 47,
+          "losses": 41,
+          "ties": 2,
+          "pct": 0.5340909090909091,
+          "pct_str": ".534",
+          "gb": 8.0
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 47,
+          "losses": 41,
+          "ties": 2,
+          "pct": 0.5340909090909091,
+          "pct_str": ".534",
+          "gb": 8.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 47,
+          "losses": 43,
+          "ties": 0,
+          "pct": 0.5222222222222223,
+          "pct_str": ".522",
+          "gb": 9.0
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 44,
+          "losses": 45,
+          "ties": 1,
+          "pct": 0.4943820224719101,
+          "pct_str": ".494",
+          "gb": 11.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 43,
+          "losses": 45,
+          "ties": 2,
+          "pct": 0.48863636363636365,
+          "pct_str": ".489",
+          "gb": 12.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 41,
+          "losses": 48,
+          "ties": 1,
+          "pct": 0.4606741573033708,
+          "pct_str": ".461",
+          "gb": 14.5
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 40,
+          "losses": 49,
+          "ties": 1,
+          "pct": 0.449438202247191,
+          "pct_str": ".449",
+          "gb": 15.5
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 39,
+          "losses": 49,
+          "ties": 2,
+          "pct": 0.4431818181818182,
+          "pct_str": ".443",
+          "gb": 16.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 36,
+          "losses": 53,
+          "ties": 1,
+          "pct": 0.4044943820224719,
+          "pct_str": ".404",
+          "gb": 19.5
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 35,
+          "losses": 55,
+          "ties": 0,
+          "pct": 0.3888888888888889,
+          "pct_str": ".389",
+          "gb": 21.0
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 8,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 8.0,
+          "pct": 0.8
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 7,
+          "losses": 2,
+          "ties": 1.0,
+          "points": 7.5,
+          "pct": 0.75
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 7,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.7
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 6,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 6.0,
+          "pct": 0.6
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 6,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 6.0,
+          "pct": 0.6
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 5,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 4,
+          "losses": 5,
+          "ties": 1.0,
+          "points": 4.5,
+          "pct": 0.45
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 4,
+          "losses": 5,
+          "ties": 1.0,
+          "points": 4.5,
+          "pct": 0.45
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 4,
+          "losses": 6,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.4
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 4,
+          "losses": 6,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.4
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 4,
+          "losses": 6,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.4
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 3,
+          "losses": 5,
+          "ties": 2.0,
+          "points": 4.0,
+          "pct": 0.4
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 3,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 3.5,
+          "pct": 0.35
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 2,
+          "losses": 8,
+          "ties": 0.0,
+          "points": 2.0,
+          "pct": 0.2
+        }
+      ]
+    },
+    "11": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 60,
+          "losses": 37,
+          "ties": 2,
+          "pct": 0.6185567010309279,
+          "pct_str": ".619",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 57,
+          "losses": 40,
+          "ties": 2,
+          "pct": 0.5876288659793815,
+          "pct_str": ".588",
+          "gb": 3.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 55,
+          "losses": 43,
+          "ties": 1,
+          "pct": 0.5612244897959183,
+          "pct_str": ".561",
+          "gb": 5.5
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 53,
+          "losses": 44,
+          "ties": 2,
+          "pct": 0.5463917525773195,
+          "pct_str": ".546",
+          "gb": 7.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 52,
+          "losses": 46,
+          "ties": 1,
+          "pct": 0.5306122448979592,
+          "pct_str": ".531",
+          "gb": 8.5
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 51,
+          "losses": 46,
+          "ties": 2,
+          "pct": 0.5257731958762887,
+          "pct_str": ".526",
+          "gb": 9.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 49,
+          "losses": 50,
+          "ties": 0,
+          "pct": 0.494949494949495,
+          "pct_str": ".495",
+          "gb": 12.0
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 48,
+          "losses": 50,
+          "ties": 1,
+          "pct": 0.4897959183673469,
+          "pct_str": ".490",
+          "gb": 12.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 48,
+          "losses": 50,
+          "ties": 1,
+          "pct": 0.4897959183673469,
+          "pct_str": ".490",
+          "gb": 12.5
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 45,
+          "losses": 52,
+          "ties": 2,
+          "pct": 0.4639175257731959,
+          "pct_str": ".464",
+          "gb": 15.0
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 43,
+          "losses": 55,
+          "ties": 1,
+          "pct": 0.4387755102040816,
+          "pct_str": ".439",
+          "gb": 17.5
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 42,
+          "losses": 55,
+          "ties": 2,
+          "pct": 0.4329896907216495,
+          "pct_str": ".433",
+          "gb": 18.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 41,
+          "losses": 57,
+          "ties": 1,
+          "pct": 0.41836734693877553,
+          "pct_str": ".418",
+          "gb": 19.5
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 40,
+          "losses": 59,
+          "ties": 0,
+          "pct": 0.40404040404040403,
+          "pct_str": ".404",
+          "gb": 21.0
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 9,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 9.0,
+          "pct": 0.8181818181818182
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 8,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 8.0,
+          "pct": 0.7272727272727273
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 7,
+          "losses": 3,
+          "ties": 1.0,
+          "points": 7.5,
+          "pct": 0.6818181818181818
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 7,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.6363636363636364
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 7,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.6363636363636364
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 5,
+          "losses": 5,
+          "ties": 1.0,
+          "points": 5.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 5,
+          "losses": 6,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.45454545454545453
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 4,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 4.5,
+          "pct": 0.4090909090909091
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 4,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 4.5,
+          "pct": 0.4090909090909091
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 4,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.36363636363636365
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 4,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.36363636363636365
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 4,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.36363636363636365
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 3,
+          "losses": 6,
+          "ties": 2.0,
+          "points": 4.0,
+          "pct": 0.36363636363636365
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 3,
+          "losses": 8,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.2727272727272727
+        }
+      ]
+    },
+    "12": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 67,
+          "losses": 39,
+          "ties": 2,
+          "pct": 0.6320754716981132,
+          "pct_str": ".632",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 62,
+          "losses": 44,
+          "ties": 2,
+          "pct": 0.5849056603773585,
+          "pct_str": ".585",
+          "gb": 5.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 58,
+          "losses": 49,
+          "ties": 1,
+          "pct": 0.5420560747663551,
+          "pct_str": ".542",
+          "gb": 9.5
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 57,
+          "losses": 50,
+          "ties": 1,
+          "pct": 0.5327102803738317,
+          "pct_str": ".533",
+          "gb": 10.5
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 56,
+          "losses": 50,
+          "ties": 2,
+          "pct": 0.5283018867924528,
+          "pct_str": ".528",
+          "gb": 11.0
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 55,
+          "losses": 51,
+          "ties": 2,
+          "pct": 0.5188679245283019,
+          "pct_str": ".519",
+          "gb": 12.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 53,
+          "losses": 54,
+          "ties": 1,
+          "pct": 0.4953271028037383,
+          "pct_str": ".495",
+          "gb": 14.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 52,
+          "losses": 55,
+          "ties": 1,
+          "pct": 0.48598130841121495,
+          "pct_str": ".486",
+          "gb": 15.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 51,
+          "losses": 55,
+          "ties": 2,
+          "pct": 0.4811320754716981,
+          "pct_str": ".481",
+          "gb": 16.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 51,
+          "losses": 57,
+          "ties": 0,
+          "pct": 0.4722222222222222,
+          "pct_str": ".472",
+          "gb": 17.0
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 47,
+          "losses": 59,
+          "ties": 2,
+          "pct": 0.44339622641509435,
+          "pct_str": ".443",
+          "gb": 20.0
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 47,
+          "losses": 60,
+          "ties": 1,
+          "pct": 0.4392523364485981,
+          "pct_str": ".439",
+          "gb": 20.5
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 47,
+          "losses": 60,
+          "ties": 1,
+          "pct": 0.4392523364485981,
+          "pct_str": ".439",
+          "gb": 20.5
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 44,
+          "losses": 64,
+          "ties": 0,
+          "pct": 0.4074074074074074,
+          "pct_str": ".407",
+          "gb": 24.0
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 10,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 10.0,
+          "pct": 0.8333333333333334
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 8,
+          "losses": 3,
+          "ties": 1.0,
+          "points": 8.5,
+          "pct": 0.7083333333333334
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 8,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 8.0,
+          "pct": 0.6666666666666666
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 8,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 8.0,
+          "pct": 0.6666666666666666
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 7,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.5833333333333334
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 5,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 5.5,
+          "pct": 0.4583333333333333
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 5,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 5.5,
+          "pct": 0.4583333333333333
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 5,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 5.5,
+          "pct": 0.4583333333333333
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 5,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.4166666666666667
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 5,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.4166666666666667
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 5,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.4166666666666667
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 4,
+          "losses": 8,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.3333333333333333
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 3,
+          "losses": 7,
+          "ties": 2.0,
+          "points": 4.0,
+          "pct": 0.3333333333333333
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 3,
+          "losses": 9,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.25
+        }
+      ]
+    },
+    "13": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 73,
+          "losses": 42,
+          "ties": 2,
+          "pct": 0.6347826086956522,
+          "pct_str": ".635",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 65,
+          "losses": 50,
+          "ties": 2,
+          "pct": 0.5652173913043478,
+          "pct_str": ".565",
+          "gb": 8.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 62,
+          "losses": 53,
+          "ties": 2,
+          "pct": 0.5391304347826087,
+          "pct_str": ".539",
+          "gb": 11.0
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 62,
+          "losses": 53,
+          "ties": 2,
+          "pct": 0.5391304347826087,
+          "pct_str": ".539",
+          "gb": 11.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 61,
+          "losses": 54,
+          "ties": 2,
+          "pct": 0.5304347826086957,
+          "pct_str": ".530",
+          "gb": 12.0
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 60,
+          "losses": 56,
+          "ties": 1,
+          "pct": 0.5172413793103449,
+          "pct_str": ".517",
+          "gb": 13.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 60,
+          "losses": 56,
+          "ties": 1,
+          "pct": 0.5172413793103449,
+          "pct_str": ".517",
+          "gb": 13.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 57,
+          "losses": 58,
+          "ties": 2,
+          "pct": 0.4956521739130435,
+          "pct_str": ".496",
+          "gb": 16.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 57,
+          "losses": 58,
+          "ties": 2,
+          "pct": 0.4956521739130435,
+          "pct_str": ".496",
+          "gb": 16.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 55,
+          "losses": 61,
+          "ties": 1,
+          "pct": 0.47413793103448276,
+          "pct_str": ".474",
+          "gb": 18.5
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 53,
+          "losses": 64,
+          "ties": 0,
+          "pct": 0.452991452991453,
+          "pct_str": ".453",
+          "gb": 21.0
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 50,
+          "losses": 66,
+          "ties": 1,
+          "pct": 0.43103448275862066,
+          "pct_str": ".431",
+          "gb": 23.5
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 48,
+          "losses": 67,
+          "ties": 2,
+          "pct": 0.41739130434782606,
+          "pct_str": ".417",
+          "gb": 25.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 46,
+          "losses": 71,
+          "ties": 0,
+          "pct": 0.39316239316239315,
+          "pct_str": ".393",
+          "gb": 28.0
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 11,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 11.0,
+          "pct": 0.8461538461538461
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 9,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 9.0,
+          "pct": 0.6923076923076923
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 8,
+          "losses": 4,
+          "ties": 1.0,
+          "points": 8.5,
+          "pct": 0.6538461538461539
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 8,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 8.0,
+          "pct": 0.6153846153846154
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 7,
+          "losses": 6,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.5384615384615384
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 6,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 6.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 6,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 6.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 6,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 6.0,
+          "pct": 0.46153846153846156
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 6,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 6.0,
+          "pct": 0.46153846153846156
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 5,
+          "losses": 7,
+          "ties": 1.0,
+          "points": 5.5,
+          "pct": 0.4230769230769231
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 5,
+          "losses": 8,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.38461538461538464
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 4,
+          "losses": 7,
+          "ties": 2.0,
+          "points": 5.0,
+          "pct": 0.38461538461538464
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 4,
+          "losses": 9,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.3076923076923077
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 3,
+          "losses": 10,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.23076923076923078
+        }
+      ]
+    },
+    "14": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 78,
+          "losses": 46,
+          "ties": 2,
+          "pct": 0.6290322580645161,
+          "pct_str": ".629",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 68,
+          "losses": 55,
+          "ties": 3,
+          "pct": 0.5528455284552846,
+          "pct_str": ".553",
+          "gb": 9.5
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 68,
+          "losses": 57,
+          "ties": 1,
+          "pct": 0.544,
+          "pct_str": ".544",
+          "gb": 10.5
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 66,
+          "losses": 58,
+          "ties": 2,
+          "pct": 0.532258064516129,
+          "pct_str": ".532",
+          "gb": 12.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 66,
+          "losses": 58,
+          "ties": 2,
+          "pct": 0.532258064516129,
+          "pct_str": ".532",
+          "gb": 12.0
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 66,
+          "losses": 58,
+          "ties": 2,
+          "pct": 0.532258064516129,
+          "pct_str": ".532",
+          "gb": 12.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 66,
+          "losses": 59,
+          "ties": 1,
+          "pct": 0.528,
+          "pct_str": ".528",
+          "gb": 12.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 61,
+          "losses": 63,
+          "ties": 2,
+          "pct": 0.49193548387096775,
+          "pct_str": ".492",
+          "gb": 17.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 61,
+          "losses": 63,
+          "ties": 2,
+          "pct": 0.49193548387096775,
+          "pct_str": ".492",
+          "gb": 17.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 61,
+          "losses": 63,
+          "ties": 2,
+          "pct": 0.49193548387096775,
+          "pct_str": ".492",
+          "gb": 17.0
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 56,
+          "losses": 70,
+          "ties": 0,
+          "pct": 0.4444444444444444,
+          "pct_str": ".444",
+          "gb": 23.0
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 53,
+          "losses": 71,
+          "ties": 2,
+          "pct": 0.4274193548387097,
+          "pct_str": ".427",
+          "gb": 25.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 52,
+          "losses": 72,
+          "ties": 2,
+          "pct": 0.41935483870967744,
+          "pct_str": ".419",
+          "gb": 26.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 48,
+          "losses": 77,
+          "ties": 1,
+          "pct": 0.384,
+          "pct_str": ".384",
+          "gb": 30.5
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 12,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 12.0,
+          "pct": 0.8571428571428571
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 9,
+          "losses": 4,
+          "ties": 1.0,
+          "points": 9.5,
+          "pct": 0.6785714285714286
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 9,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 9.0,
+          "pct": 0.6428571428571429
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 8,
+          "losses": 6,
+          "ties": 0.0,
+          "points": 8.0,
+          "pct": 0.5714285714285714
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 8,
+          "losses": 6,
+          "ties": 0.0,
+          "points": 8.0,
+          "pct": 0.5714285714285714
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 7,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 7.5,
+          "pct": 0.5357142857142857
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 7,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 6,
+          "losses": 7,
+          "ties": 1.0,
+          "points": 6.5,
+          "pct": 0.4642857142857143
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 6,
+          "losses": 7,
+          "ties": 1.0,
+          "points": 6.5,
+          "pct": 0.4642857142857143
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 6,
+          "losses": 8,
+          "ties": 0.0,
+          "points": 6.0,
+          "pct": 0.42857142857142855
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 5,
+          "losses": 7,
+          "ties": 2.0,
+          "points": 6.0,
+          "pct": 0.42857142857142855
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 5,
+          "losses": 9,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.35714285714285715
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 4,
+          "losses": 10,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.2857142857142857
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 3,
+          "losses": 11,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.21428571428571427
+        }
+      ]
+    },
+    "15": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 84,
+          "losses": 49,
+          "ties": 2,
+          "pct": 0.631578947368421,
+          "pct_str": ".632",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 72,
+          "losses": 61,
+          "ties": 2,
+          "pct": 0.5413533834586466,
+          "pct_str": ".541",
+          "gb": 12.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 71,
+          "losses": 61,
+          "ties": 3,
+          "pct": 0.5378787878787878,
+          "pct_str": ".538",
+          "gb": 12.5
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 71,
+          "losses": 62,
+          "ties": 2,
+          "pct": 0.5338345864661654,
+          "pct_str": ".534",
+          "gb": 13.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 71,
+          "losses": 63,
+          "ties": 1,
+          "pct": 0.5298507462686567,
+          "pct_str": ".530",
+          "gb": 13.5
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 71,
+          "losses": 63,
+          "ties": 1,
+          "pct": 0.5298507462686567,
+          "pct_str": ".530",
+          "gb": 13.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 69,
+          "losses": 64,
+          "ties": 2,
+          "pct": 0.518796992481203,
+          "pct_str": ".519",
+          "gb": 15.0
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 67,
+          "losses": 66,
+          "ties": 2,
+          "pct": 0.5037593984962406,
+          "pct_str": ".504",
+          "gb": 17.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 66,
+          "losses": 67,
+          "ties": 2,
+          "pct": 0.49624060150375937,
+          "pct_str": ".496",
+          "gb": 18.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 65,
+          "losses": 68,
+          "ties": 2,
+          "pct": 0.48872180451127817,
+          "pct_str": ".489",
+          "gb": 19.0
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 61,
+          "losses": 74,
+          "ties": 0,
+          "pct": 0.45185185185185184,
+          "pct_str": ".452",
+          "gb": 24.0
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 57,
+          "losses": 76,
+          "ties": 2,
+          "pct": 0.42857142857142855,
+          "pct_str": ".429",
+          "gb": 27.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 56,
+          "losses": 77,
+          "ties": 2,
+          "pct": 0.42105263157894735,
+          "pct_str": ".421",
+          "gb": 28.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 52,
+          "losses": 82,
+          "ties": 1,
+          "pct": 0.3880597014925373,
+          "pct_str": ".388",
+          "gb": 32.5
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 13,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 13.0,
+          "pct": 0.8666666666666667
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 10,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 10.0,
+          "pct": 0.6666666666666666
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 9,
+          "losses": 5,
+          "ties": 1.0,
+          "points": 9.5,
+          "pct": 0.6333333333333333
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 9,
+          "losses": 6,
+          "ties": 0.0,
+          "points": 9.0,
+          "pct": 0.6
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 8,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 8.0,
+          "pct": 0.5333333333333333
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 8,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 8.0,
+          "pct": 0.5333333333333333
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 7,
+          "losses": 7,
+          "ties": 1.0,
+          "points": 7.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 7,
+          "losses": 7,
+          "ties": 1.0,
+          "points": 7.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 7,
+          "losses": 8,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.4666666666666667
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 6,
+          "losses": 8,
+          "ties": 1.0,
+          "points": 6.5,
+          "pct": 0.43333333333333335
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 5,
+          "losses": 8,
+          "ties": 2.0,
+          "points": 6.0,
+          "pct": 0.4
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 5,
+          "losses": 10,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.3333333333333333
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 5,
+          "losses": 10,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.3333333333333333
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 3,
+          "losses": 12,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.2
+        }
+      ]
+    },
+    "16": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 90,
+          "losses": 52,
+          "ties": 2,
+          "pct": 0.6338028169014085,
+          "pct_str": ".634",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 79,
+          "losses": 64,
+          "ties": 1,
+          "pct": 0.5524475524475524,
+          "pct_str": ".552",
+          "gb": 11.5
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 78,
+          "losses": 65,
+          "ties": 1,
+          "pct": 0.5454545454545454,
+          "pct_str": ".545",
+          "gb": 12.5
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 77,
+          "losses": 65,
+          "ties": 2,
+          "pct": 0.5422535211267606,
+          "pct_str": ".542",
+          "gb": 13.0
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 77,
+          "losses": 65,
+          "ties": 2,
+          "pct": 0.5422535211267606,
+          "pct_str": ".542",
+          "gb": 13.0
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 75,
+          "losses": 67,
+          "ties": 2,
+          "pct": 0.528169014084507,
+          "pct_str": ".528",
+          "gb": 15.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 73,
+          "losses": 68,
+          "ties": 3,
+          "pct": 0.5177304964539007,
+          "pct_str": ".518",
+          "gb": 16.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 71,
+          "losses": 71,
+          "ties": 2,
+          "pct": 0.5,
+          "pct_str": ".500",
+          "gb": 19.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 68,
+          "losses": 74,
+          "ties": 2,
+          "pct": 0.4788732394366197,
+          "pct_str": ".479",
+          "gb": 22.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 68,
+          "losses": 74,
+          "ties": 2,
+          "pct": 0.4788732394366197,
+          "pct_str": ".479",
+          "gb": 22.0
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 67,
+          "losses": 77,
+          "ties": 0,
+          "pct": 0.4652777777777778,
+          "pct_str": ".465",
+          "gb": 24.0
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 59,
+          "losses": 83,
+          "ties": 2,
+          "pct": 0.4154929577464789,
+          "pct_str": ".415",
+          "gb": 31.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 58,
+          "losses": 84,
+          "ties": 2,
+          "pct": 0.4084507042253521,
+          "pct_str": ".408",
+          "gb": 32.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 56,
+          "losses": 87,
+          "ties": 1,
+          "pct": 0.3916083916083916,
+          "pct_str": ".392",
+          "gb": 34.5
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 14,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 14.0,
+          "pct": 0.875
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 11,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 11.0,
+          "pct": 0.6875
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 10,
+          "losses": 5,
+          "ties": 1.0,
+          "points": 10.5,
+          "pct": 0.65625
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 9,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 9.0,
+          "pct": 0.5625
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 9,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 9.0,
+          "pct": 0.5625
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 9,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 9.0,
+          "pct": 0.5625
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 8,
+          "losses": 7,
+          "ties": 1.0,
+          "points": 8.5,
+          "pct": 0.53125
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 7,
+          "losses": 8,
+          "ties": 1.0,
+          "points": 7.5,
+          "pct": 0.46875
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 7,
+          "losses": 9,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.4375
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 6,
+          "losses": 9,
+          "ties": 1.0,
+          "points": 6.5,
+          "pct": 0.40625
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 6,
+          "losses": 10,
+          "ties": 0.0,
+          "points": 6.0,
+          "pct": 0.375
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 5,
+          "losses": 9,
+          "ties": 2.0,
+          "points": 6.0,
+          "pct": 0.375
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 5,
+          "losses": 11,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.3125
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 3,
+          "losses": 13,
+          "ties": 0.0,
+          "points": 3.0,
+          "pct": 0.1875
+        }
+      ]
+    },
+    "17": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 97,
+          "losses": 53,
+          "ties": 3,
+          "pct": 0.6466666666666666,
+          "pct_str": ".647",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 83,
+          "losses": 69,
+          "ties": 1,
+          "pct": 0.5460526315789473,
+          "pct_str": ".546",
+          "gb": 15.0
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 83,
+          "losses": 69,
+          "ties": 1,
+          "pct": 0.5460526315789473,
+          "pct_str": ".546",
+          "gb": 15.0
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 82,
+          "losses": 69,
+          "ties": 2,
+          "pct": 0.543046357615894,
+          "pct_str": ".543",
+          "gb": 15.5
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 82,
+          "losses": 69,
+          "ties": 2,
+          "pct": 0.543046357615894,
+          "pct_str": ".543",
+          "gb": 15.5
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 81,
+          "losses": 70,
+          "ties": 2,
+          "pct": 0.5364238410596026,
+          "pct_str": ".536",
+          "gb": 16.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 76,
+          "losses": 74,
+          "ties": 3,
+          "pct": 0.5066666666666667,
+          "pct_str": ".507",
+          "gb": 21.0
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 75,
+          "losses": 76,
+          "ties": 2,
+          "pct": 0.4966887417218543,
+          "pct_str": ".497",
+          "gb": 22.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 75,
+          "losses": 78,
+          "ties": 0,
+          "pct": 0.49019607843137253,
+          "pct_str": ".490",
+          "gb": 23.5
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 72,
+          "losses": 79,
+          "ties": 2,
+          "pct": 0.4768211920529801,
+          "pct_str": ".477",
+          "gb": 25.5
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 69,
+          "losses": 82,
+          "ties": 2,
+          "pct": 0.45695364238410596,
+          "pct_str": ".457",
+          "gb": 28.5
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 62,
+          "losses": 88,
+          "ties": 3,
+          "pct": 0.41333333333333333,
+          "pct_str": ".413",
+          "gb": 35.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 61,
+          "losses": 90,
+          "ties": 2,
+          "pct": 0.40397350993377484,
+          "pct_str": ".404",
+          "gb": 36.5
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 59,
+          "losses": 91,
+          "ties": 3,
+          "pct": 0.3933333333333333,
+          "pct_str": ".393",
+          "gb": 38.0
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 15,
+          "losses": 2,
+          "ties": 0.0,
+          "points": 15.0,
+          "pct": 0.8823529411764706
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 12,
+          "losses": 5,
+          "ties": 0.0,
+          "points": 12.0,
+          "pct": 0.7058823529411765
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 11,
+          "losses": 5,
+          "ties": 1.0,
+          "points": 11.5,
+          "pct": 0.6764705882352942
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 10,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 10.0,
+          "pct": 0.5882352941176471
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 10,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 10.0,
+          "pct": 0.5882352941176471
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 9,
+          "losses": 8,
+          "ties": 0.0,
+          "points": 9.0,
+          "pct": 0.5294117647058824
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 8,
+          "losses": 8,
+          "ties": 1.0,
+          "points": 8.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 7,
+          "losses": 9,
+          "ties": 1.0,
+          "points": 7.5,
+          "pct": 0.4411764705882353
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 7,
+          "losses": 10,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.4117647058823529
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 7,
+          "losses": 10,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.4117647058823529
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 6,
+          "losses": 10,
+          "ties": 1.0,
+          "points": 6.5,
+          "pct": 0.38235294117647056
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 5,
+          "losses": 10,
+          "ties": 2.0,
+          "points": 6.0,
+          "pct": 0.35294117647058826
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 5,
+          "losses": 12,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.29411764705882354
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 4,
+          "losses": 13,
+          "ties": 0.0,
+          "points": 4.0,
+          "pct": 0.23529411764705882
+        }
+      ]
+    },
+    "18": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 100,
+          "losses": 58,
+          "ties": 4,
+          "pct": 0.6329113924050633,
+          "pct_str": ".633",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 89,
+          "losses": 72,
+          "ties": 1,
+          "pct": 0.5527950310559007,
+          "pct_str": ".553",
+          "gb": 12.5
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 88,
+          "losses": 72,
+          "ties": 2,
+          "pct": 0.55,
+          "pct_str": ".550",
+          "gb": 13.0
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 87,
+          "losses": 74,
+          "ties": 1,
+          "pct": 0.5403726708074534,
+          "pct_str": ".540",
+          "gb": 14.5
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 85,
+          "losses": 75,
+          "ties": 2,
+          "pct": 0.53125,
+          "pct_str": ".531",
+          "gb": 16.0
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 84,
+          "losses": 76,
+          "ties": 2,
+          "pct": 0.525,
+          "pct_str": ".525",
+          "gb": 17.0
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 81,
+          "losses": 77,
+          "ties": 4,
+          "pct": 0.5126582278481012,
+          "pct_str": ".513",
+          "gb": 19.0
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 80,
+          "losses": 82,
+          "ties": 0,
+          "pct": 0.49382716049382713,
+          "pct_str": ".494",
+          "gb": 22.0
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 78,
+          "losses": 82,
+          "ties": 2,
+          "pct": 0.4875,
+          "pct_str": ".487",
+          "gb": 23.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 77,
+          "losses": 82,
+          "ties": 3,
+          "pct": 0.48427672955974843,
+          "pct_str": ".484",
+          "gb": 23.5
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 70,
+          "losses": 88,
+          "ties": 4,
+          "pct": 0.4430379746835443,
+          "pct_str": ".443",
+          "gb": 30.0
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 68,
+          "losses": 89,
+          "ties": 5,
+          "pct": 0.43312101910828027,
+          "pct_str": ".433",
+          "gb": 31.5
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 67,
+          "losses": 93,
+          "ties": 2,
+          "pct": 0.41875,
+          "pct_str": ".419",
+          "gb": 34.0
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 62,
+          "losses": 96,
+          "ties": 4,
+          "pct": 0.3924050632911392,
+          "pct_str": ".392",
+          "gb": 38.0
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 15,
+          "losses": 3,
+          "ties": 0.0,
+          "points": 15.0,
+          "pct": 0.8333333333333334
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 12,
+          "losses": 6,
+          "ties": 0.0,
+          "points": 12.0,
+          "pct": 0.6666666666666666
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 11,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 11.5,
+          "pct": 0.6388888888888888
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 11,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 11.0,
+          "pct": 0.6111111111111112
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 10,
+          "losses": 8,
+          "ties": 0.0,
+          "points": 10.0,
+          "pct": 0.5555555555555556
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 10,
+          "losses": 8,
+          "ties": 0.0,
+          "points": 10.0,
+          "pct": 0.5555555555555556
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 8,
+          "losses": 9,
+          "ties": 1.0,
+          "points": 8.5,
+          "pct": 0.4722222222222222
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 8,
+          "losses": 9,
+          "ties": 1.0,
+          "points": 8.5,
+          "pct": 0.4722222222222222
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 8,
+          "losses": 10,
+          "ties": 0.0,
+          "points": 8.0,
+          "pct": 0.4444444444444444
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 7,
+          "losses": 11,
+          "ties": 0.0,
+          "points": 7.0,
+          "pct": 0.3888888888888889
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 6,
+          "losses": 10,
+          "ties": 2.0,
+          "points": 7.0,
+          "pct": 0.3888888888888889
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 6,
+          "losses": 11,
+          "ties": 1.0,
+          "points": 6.5,
+          "pct": 0.3611111111111111
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 6,
+          "losses": 12,
+          "ties": 0.0,
+          "points": 6.0,
+          "pct": 0.3333333333333333
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 5,
+          "losses": 13,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.2777777777777778
+        }
+      ]
+    },
+    "19": {
+      "yahoo_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 103,
+          "losses": 63,
+          "ties": 5,
+          "pct": 0.6204819277108434,
+          "pct_str": ".620",
+          "gb": 0.0
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 94,
+          "losses": 75,
+          "ties": 2,
+          "pct": 0.5562130177514792,
+          "pct_str": ".556",
+          "gb": 10.5
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 93,
+          "losses": 77,
+          "ties": 1,
+          "pct": 0.5470588235294118,
+          "pct_str": ".547",
+          "gb": 12.0
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 92,
+          "losses": 77,
+          "ties": 2,
+          "pct": 0.5443786982248521,
+          "pct_str": ".544",
+          "gb": 12.5
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 88,
+          "losses": 81,
+          "ties": 2,
+          "pct": 0.5207100591715976,
+          "pct_str": ".521",
+          "gb": 16.5
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 89,
+          "losses": 82,
+          "ties": 0,
+          "pct": 0.52046783625731,
+          "pct_str": ".520",
+          "gb": 16.5
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 84,
+          "losses": 83,
+          "ties": 4,
+          "pct": 0.5029940119760479,
+          "pct_str": ".503",
+          "gb": 19.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 84,
+          "losses": 85,
+          "ties": 2,
+          "pct": 0.4970414201183432,
+          "pct_str": ".497",
+          "gb": 20.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 83,
+          "losses": 85,
+          "ties": 3,
+          "pct": 0.49404761904761907,
+          "pct_str": ".494",
+          "gb": 21.0
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 83,
+          "losses": 85,
+          "ties": 3,
+          "pct": 0.49404761904761907,
+          "pct_str": ".494",
+          "gb": 21.0
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 75,
+          "losses": 92,
+          "ties": 4,
+          "pct": 0.4491017964071856,
+          "pct_str": ".449",
+          "gb": 28.5
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 71,
+          "losses": 95,
+          "ties": 5,
+          "pct": 0.42771084337349397,
+          "pct_str": ".428",
+          "gb": 32.0
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 71,
+          "losses": 98,
+          "ties": 2,
+          "pct": 0.42011834319526625,
+          "pct_str": ".420",
+          "gb": 33.5
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 67,
+          "losses": 99,
+          "ties": 5,
+          "pct": 0.4036144578313253,
+          "pct_str": ".404",
+          "gb": 36.0
+        }
+      ],
+      "matchup_standings": [
+        {
+          "rank": 1,
+          "team_key": "466.l.14034.t.3",
+          "team_name": "Cleveland Rocks!",
+          "wins": 15,
+          "losses": 4,
+          "ties": 0.0,
+          "points": 15.0,
+          "pct": 0.7894736842105263
+        },
+        {
+          "rank": 2,
+          "team_key": "466.l.14034.t.11",
+          "team_name": "Uncle Drew",
+          "wins": 12,
+          "losses": 6,
+          "ties": 1.0,
+          "points": 12.5,
+          "pct": 0.6578947368421053
+        },
+        {
+          "rank": 3,
+          "team_key": "466.l.14034.t.4",
+          "team_name": "Dirk Dirk",
+          "wins": 12,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 12.0,
+          "pct": 0.631578947368421
+        },
+        {
+          "rank": 4,
+          "team_key": "466.l.14034.t.14",
+          "team_name": "Why Not",
+          "wins": 12,
+          "losses": 7,
+          "ties": 0.0,
+          "points": 12.0,
+          "pct": 0.631578947368421
+        },
+        {
+          "rank": 5,
+          "team_key": "466.l.14034.t.2",
+          "team_name": "Baked Zucchini\u2019s",
+          "wins": 10,
+          "losses": 9,
+          "ties": 0.0,
+          "points": 10.0,
+          "pct": 0.5263157894736842
+        },
+        {
+          "rank": 6,
+          "team_key": "466.l.14034.t.8",
+          "team_name": "Sektzia Shefel",
+          "wins": 10,
+          "losses": 9,
+          "ties": 0.0,
+          "points": 10.0,
+          "pct": 0.5263157894736842
+        },
+        {
+          "rank": 7,
+          "team_key": "466.l.14034.t.5",
+          "team_name": "James of Thrones",
+          "wins": 9,
+          "losses": 9,
+          "ties": 1.0,
+          "points": 9.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 8,
+          "team_key": "466.l.14034.t.9",
+          "team_name": "The Glove",
+          "wins": 9,
+          "losses": 9,
+          "ties": 1.0,
+          "points": 9.5,
+          "pct": 0.5
+        },
+        {
+          "rank": 9,
+          "team_key": "466.l.14034.t.6",
+          "team_name": "Kligers",
+          "wins": 9,
+          "losses": 10,
+          "ties": 0.0,
+          "points": 9.0,
+          "pct": 0.47368421052631576
+        },
+        {
+          "rank": 10,
+          "team_key": "466.l.14034.t.10",
+          "team_name": "Clowney Nico",
+          "wins": 8,
+          "losses": 11,
+          "ties": 0.0,
+          "points": 8.0,
+          "pct": 0.42105263157894735
+        },
+        {
+          "rank": 11,
+          "team_key": "466.l.14034.t.13",
+          "team_name": "Foxy Fox",
+          "wins": 7,
+          "losses": 11,
+          "ties": 1.0,
+          "points": 7.5,
+          "pct": 0.39473684210526316
+        },
+        {
+          "rank": 12,
+          "team_key": "466.l.14034.t.1",
+          "team_name": "Maccabi Heat Haifa",
+          "wins": 6,
+          "losses": 11,
+          "ties": 2.0,
+          "points": 7.0,
+          "pct": 0.3684210526315789
+        },
+        {
+          "rank": 13,
+          "team_key": "466.l.14034.t.7",
+          "team_name": "SeGA Statums",
+          "wins": 6,
+          "losses": 13,
+          "ties": 0.0,
+          "points": 6.0,
+          "pct": 0.3157894736842105
+        },
+        {
+          "rank": 14,
+          "team_key": "466.l.14034.t.12",
+          "team_name": "Werder bremen",
+          "wins": 5,
+          "losses": 14,
+          "ties": 0.0,
+          "points": 5.0,
+          "pct": 0.2631578947368421
+        }
+      ]
+    }
+  }
+}
